@@ -111,7 +111,7 @@ Montana State University
 
 #### 2012
 <ul>
-	<li>Rossmann D, Rossmann B, Meadow K, <strong>Young S</strong>, Notess G. 2012. <a href="https://scottwhyoung.com/wp-content/uploads/2018/04/library-assessment-conference-2012-did-we-get-what-we-paid-for.pdf">Did We Get What We Paid For? An Institutional Assessment of User Behavior, User Expectations, and System Performance of Web Scale Discovery Tools</a>. In: Proceedings of the 2012 Library Assessment Conference Building Effective, Sustainable, Practical Assessment. Charlottesville, VA: Association of Research Libraries. p. 471–484.</li>
+	<li>Rossmann D, Rossmann B, Meadow K, <strong>Young S</strong>, Notess G. 2012. <a href="/assets/pdf/library-assessment-conference-2012-did-we-get-what-we-paid-for.pdf">Did We Get What We Paid For? An Institutional Assessment of User Behavior, User Expectations, and System Performance of Web Scale Discovery Tools</a>. In: Proceedings of the 2012 Library Assessment Conference Building Effective, Sustainable, Practical Assessment. Charlottesville, VA: Association of Research Libraries. p. 471–484.</li>
 </ul>
 
 ### Articles - Non peer reviewed and popular press 
@@ -120,7 +120,7 @@ Montana State University
 	<li>Rossmann D, <strong>Young SWH</strong>. 2020. <a href="https://doi.org/10.18438/eblip29714">Evidence Based Practice for Virtual Reality Spaces and Services: A Service Design Case Study</a>. Evidenced Based Library and Information Practice. (15)2:143–149.</li>
 	<li><strong>Young SWH</strong>. 2017. <a href="https://www.libraryjournal.com/?detailStory=participatory-design-action-user-experience">Participatory Design in Action</a>. Library Journal. 142(14):26.</li>
 	<li>Rossmann D, <strong>Young SWH</strong>. 2017. <a href="https://americanlibrariesmagazine.org/2017/01/03/social-media-optimization/">Social Media Optimization: Five principles to guide your online activities</a>. American Libraries Magazine. 48(1/2): 71.</li>
-	<li>Rossmann D, <strong>Young SWH</strong>. 2015. <a href="http://scottwhyoung.com/wp-content/uploads/2015/06/using_social_media_to_build_community_rossmann_young.pdf">Using Social Media to Build Community</a>. Computers in Libraries. 35(4):18–22.</li>
+	<li>Rossmann D, <strong>Young SWH</strong>. 2015. <a href="/assets/pdf/using_social_media_to_build_community_rossmann_young.pdf">Using Social Media to Build Community</a>. Computers in Libraries. 35(4):18–22.</li>
 	<li>Arlitsch K, OBrien P, Clark JA, <strong>Young SWH</strong>, Rossmann D. 2014. <a href="https://doi.org/10.1080/01930826.2014.946778">Demonstrating Library Value at Network Scale: Leveraging the Semantic Web With New Knowledge Work</a>. Journal of Library Administration. 54(5):413–425.</li>
 	<li><strong>Young SWH</strong>, Tate AM, Rossmann D, Hansen MA. 2014. <a href="https://doi.org/10.5860/crln.75.8.9174">The Social Media Toll Road: The Promise and Peril of Facebook Advertising</a>. College &amp; Research Library News. 75(8):427–434.</li>
 	<li>Clark J, Marriott R, Custer S, Adams E, Bonnand S, Miller T, <strong>Young S</strong>, Hendrikx J. 2012. <a href="http://arc.lib.montana.edu/snow-science/item/1651">A Searchable Digital Archive of ISSW Proceedings is Available Online!</a> In: Proceedings, 2012 International Snow Science Workshop; Anchorage, AK. p. 807–813.</li>
