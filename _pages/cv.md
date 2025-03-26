@@ -87,6 +87,19 @@ Montana State University
 
 ## Public Scholarship
 
+<ul>
+  <li>Young SWH, Gibeault M. <a href="https://www.diglib.org/2020-dlf-forum-building-community-with-dlfs-working-group-on-privacy-and-ethics-in-technology/">Building Community With DLF’s Working Group on Privacy and Ethics in Technology</a>. Digital Library Federation. 2 November 2020.</li>
+  <li>Young SWH. "<a href="https://scottwhyoung.com/posts/participatory-methods-supreme-court">Participatory Methods at Supreme Court Oral Arguments</a>."  Scott W H Young. 13 May 2020.</li>
+  <li>Young SWH. "<a href="https://scottwhyoung.com/posts/imperial-library-assessment">On the Imperial History of Library Assessment</a>." Scott W H Young. 30 April 2020.</li>
+  <li>Arlitsch K, Young SWH. "<a href="https://er.educause.edu/multimedia/2019/2/do-academic-libraries-protect-privacy-in-the-digital-age">Do Academic Libraries Protect Privacy in the Digital Age? [podcast]</a>" EDUCAUSE Review. 11 February 2019.</li>
+  <li>Young SWH. "<a href="https://scottwhyoung.com/workbook/andrew-carnegie-librarian">Andrew Carnegie, Librarian</a>." Scott W H Young. 26 February 2017.</li>
+  <li>Young SWH. "<a href="https://web.archive.org/web/20161008185239/https://www.altmetric.com/blog/building-community-and-demonstrating-impact-with-altmetrics/">Building Community and Demonstrating Impact with Altmetrics</a>." Altmetric. 16 June 2016.</li>
+  <li>Young SWH. "<a href="https://web.archive.org/web/20150527101152/http://dp.la/info/2015/05/21/on-the-spirit-of-creative-exploration-at-dplafest-2015/">On the Spirit of Creative Exploration at DPLAfest 2015</a>." Digital Public Library of America. 21 May 2015.</li>
+  <li>Young SWH, Clark JA. "<a href="https://www.diglib.org/cni-fall-2013-reflection/">CNI Fall 2013 Reflection</a>." Digital Library Federation. 28 March 2014.</li>
+  <li>Young SWH. "<a href="https://www.diglib.org/dlf-forum-2013-thoughts-from-a-new-librarian/">DLF Forum 2013—Thoughts from a New Librarian</a>." Digital Library Federation. 25 November 2013.</li>
+  <li>Young SWH, Clark JA, OBrien P, Arlitsch K. "<a href="https://www.diglib.org/metadata-first-using-structured-data-markup-and-the-google-custom-search-api-to-outsource-your-digital-collection-search-index/">Metadata First: Using Structured Data Markup and the Google Custom Search API to Outsource Your Digital Collection Search Index</a>." Digital Library Federation. 5 September 2013.</li>
+</ul>
+
 ## Teaching Activity
 ### Credit-bearing Courses
 <ul>
