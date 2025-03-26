@@ -1,11 +1,6 @@
 # Jekyll Academic
 
-![Gem](https://img.shields.io/gem/v/jekyll-academic?color=orange&style=plastic)
-![Gem](https://img.shields.io/gem/dt/jekyll-academic?color=blue&style=plastic)
-
-This is a professional website using [Jekyll Academic](https://jekyll-academic.netlify.app), a lightweight theme for any academic usecase. Perfect for portfolio websites, blogs, and academia. It is a simple no nonsense theme that offers many features.
-
-[Live preview](https://jekyll-academic.netlify.app)
+This is a professional website using a forked version of [Jekyll Academic](https://jekyll-academic.netlify.app), a lightweight theme that offers many features.
 
 ## License
 
