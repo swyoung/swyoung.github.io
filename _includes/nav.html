@@ -1,13 +1,13 @@
 <nav>
   <ul>
-    <li><strong>
+    <li>
       <a href="/">
         {% if site.navbar_title %}
           {{ site.navbar_title | replace: ' ', "&nbsp;" | replace: "-", "&nbsp;"}}
         {% else %}
           {{ site.title | replace: ' ', "&nbsp;"}}
         {% endif %}
-      </a></strong>
+      </a>
     </li>
     <br />
     {% for item in site.data.nav.links %}
