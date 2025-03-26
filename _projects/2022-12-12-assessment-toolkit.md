@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Values-Sensitive Library Assessment Toolkit"
-stack: "A practical tool for implementing values-based library assessment practice."
+stack: "A decision aid for ethical assessment practice"
 pinned: false
 order: 1
 ---
