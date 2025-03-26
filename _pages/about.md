@@ -14,13 +14,3 @@ I [publish](/cv#publications) and [present](/cv#presentations) widely on library
 I hold an MA in [Archives and Public History from New York University](https://wp.nyu.edu/nyuhistoryma/aph-program-details/), an MS in [Library and Information Science from Long Island University](https://www.liu.edu/palmer), and a PhD in [Library and Information Science from Humboldt University of Berlin](https://www.ibi.hu-berlin.de/en/about-us), with a [dissertation that examines the ethical practice of library assessment](https://doi.org/10.18452/25372).
 
 Read more on [my CV](/cv) or take a look at [project highlights](/projects). I also very infrequently share [informal posts on library topics](/blog). 
-
-
-# Contact
-
-<a href="mailto:scott.young6@montana.edu"><span class="bi bi-envelope-open-fill"></span> Email</a>
-\
-<a href="https://scholar.google.com/citations?user=1zb5c7sAAAAJ&hl=en"><i class="fa-brands fa-google-scholar"></i> Google Scholar</a>
-\
-<a href="https://orcid.org/0000-0002-3082-4057"> <i class="fa-brands fa-orcid"></i> Orcid</a>
-
