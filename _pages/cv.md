@@ -60,6 +60,17 @@ Montana State University
 </ul>
 
 ### Datasets 
+<ul>
+  <li>Mannheimer S, Bond N, <strong>Young SWH</strong>, Kettler HS; Marcus A, Slipher S, Clark, JA, Shorish Y, Rossmann D, Sheehey B. 2024. <a href="https://doi.org/10.5064/F6QME490">Data for: Responsible AI Practice in Libraries and Archives: A Review of the Literature</a>. Qualitative Data Repository. QDR Main Collection. V1. </li>
+  <li><strong>Young SWH</strong>. 2023. <a href="https://doi.org/10.5064/F6ORSLQF">Practitioner Perspectives on the Values and Ethics of Library Assessment</a>. Qualitative Data Repository QDR Main Collection. V1.</li>
+  <li>Regan MT<strong>, Young SWH</strong>, Mannheimer S. 2020. <a href="https://doi.org/10.5061/dryad.qjq2bvqcx">Data from: Improving Learner-driven Teaching Practices through Reflective Assessment</a>. Dryad.</li>
+  <li><strong>Young SWH</strong>, Chao Z, Chandler A. 2020, <a href="https://doi.org/10.5061/dryad.jwstqjq5d">Data from: User Experience Methods and Maturity in Academic Libraries</a>, v4. Dryad.</li>
+  <li><strong>Young SWH</strong>, Mannheimer S, Clark JA. 2019. <a href="http://doi.org/10.5281/zenodo.3240729">A National Forum on Web Privacy and Web Analytics — Participant Survey Instrument</a>. Zenodo.</li>
+  <li><strong>Young SWH</strong>. 2017. <a href="https://doi.org/10.15788/M2W88P">Digital Library User Research Data [dataset]</a>. Montana State University ScholarWorks.</li>
+  <li><strong>Young SWH</strong>. 2016. <a href="http://doi.org/10.15788/m23w2g">Library Web Performance Data [dataset]</a>. Montana State University ScholarWorks.</li>
+  <li><strong>Young SWH</strong>, Rossmann D, Shanks J. 2015. <a href="http://doi.org/10.15788/m26p43"> Montana State University (MSU) Library Social Media Survey</a>. Montana State University ScholarWorks.</li>
+  <li><strong>Young SWH</strong>. 2014. <a href="http://doi.org/10.15788/m2rp42">A/B Testing Web Analytics Data [dataset]</a>. Montana State University ScholarWorks.</li>
+  </ul>
 
 ## Grant Activity
 <ul>
