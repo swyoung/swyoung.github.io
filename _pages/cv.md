@@ -33,31 +33,112 @@ Montana State University
 
 ### Articles and Book Chapters - Peer Reviewed
 #### 2025
-
 <ul>
-  <li><strong>Young SWH</strong>. 2025. The Values-Sensitive Library Assessment Toolkit: A Decision Aid for Ethical Practice. In: Tureen A, Koziura A, editors. Making Values-Based Decisions in the Academic Library. ACRL. (Accepted, forthcoming)</li>
+<li><strong>Young SWH</strong>. 2025. The Values-Sensitive Library Assessment Toolkit: A Decision Aid for Ethical Practice. In: Tureen A, Koziura A, editors. <em>Making Values-Based Decisions in the Academic Library</em>. ACRL. (Accepted, forthcoming)</li>
 </ul>
 
 #### 2024
 <ul>
-  <li>Mannheimer S, Clark JA, Young SWH, Sheehey B, Bond N, Rossmann D, Kettler HS, Shorish Y. <a href="https://doi.org/10.1109/BigData62323.2024.10825205">An Ethical Reflection Aid for Responsible AI in Computational Archival Science</a>. In: Proceedings of the 2024 IEEE Big Data Conference, 9th Computational Archival Science Workshop. December 17, 2024. Washington, DC.</li>
-  <li>Mannheimer S, Bond N, Young SWH, Kettler HS, Marcus A, Slipher S, Clark JA, Rossmann D, Sheehey B, Shorish Y. 2024. <a href="https://doi.org/10.5860/ital.v43i3.17245">Responsible AI practice in libraries and archives: A review of the literature</a>. Information Technology and Libraries. 43(3):1–29.</li>
+	<li>Mannheimer S, Clark JA, <strong>Young SWH</strong>, Sheehey B, Bond N, Rossmann D, Kettler HS, Shorish Y. <a href="https://doi.org/10.1109/BigData62323.2024.10825205">An Ethical Reflection Aid for Responsible AI in Computational Archival Science</a>. In: Proceedings of the 2024 IEEE Big Data Conference, 9th Computational Archival Science Workshop. December 17, 2024. Washington, DC.</li>
+	<li>Mannheimer S, Bond N, <strong>Young SWH</strong>, Kettler HS, Marcus A, Slipher S, Clark JA, Rossmann D, Sheehey B, Shorish Y. 2024. <a href="https://doi.org/10.5860/ital.v43i3.17245">Responsible AI practice in libraries and archives: A review of the literature</a>. <em>Information Technology and Libraries</em>. 43(3):1–29</li>
 </ul>
 
 #### 2023
 <ul>
-  <li>Young SWH, Mannheimer, S. 2023. <a href="https://scholarworks.montana.edu/xmlui/handle/1/18101">Teaching Privacy Using Learner-centered Practices in a Credit-bearing Context</a>. In: Hartman-Caverly S, Chisholm A, editors. Practicing Privacy Literacy in Academic Libraries: Theories, Methods, and Cases. Chicago: ACRL. 203–225.</li>
+	<li><strong>Young SWH</strong>, Mannheimer, S. 2023. <a href="https://scholarworks.montana.edu/xmlui/handle/1/18101">Teaching Privacy Using Learner-centered Practices in a Credit-bearing Context.</a> In: Hartman-Caverly S, Chisholm A, editors. <em>Practicing Privacy Literacy in Academic Libraries: Theories, Methods, and Cases</em>. Chicago: ACRL. 203–225.</li>
+	<li>Fargo H, <strong>Young SWH</strong>. 2023. <a href="https://journal.radicallibrarianship.org/index.php/journal/article/view/66">Participatory Practices for Library Service Design and Student Engagement</a>. Journal of Radical Librarianship. 9:11–47.</li>
+</ul>
+
+#### 2022
+<ul>
+	<li>Moorman T, <strong>Young SWH</strong>. 2022. <a href="https://web.archive.org/web/20220620092950/https://creativelibrarypractice.org/2022/03/09/job-stories/">Job Stories: A Creative Tool for Library Service Design and Assessment</a>. Journal of Creative Library Practice.</li>
+</ul>
+
+
+#### 2021
+<ul>
+	<li><strong>Young SWH</strong>, McKelvey H. 2021. <a href="https://libraryperformance.files.wordpress.com/2021/12/libpmc14_2021_proceedings.pdf#page=317">Using Return-on-Investment to Tell a Story of Library Value and Library Values</a>. In: Proceedings of the 14th International Conference on Performance Measurement in Libraries. 312–316.</li>
+	<li><strong>Young SWH</strong>. 2021. <a href="https://scholarworks.montana.edu/handle/1/18946">On Ethical Assessment: Locating and Applying the Core Values of Library and Information Science</a>. In: Proceedings of the 2020–2021 Library Assessment Conference. Association of Research Libraries.</li>
+</ul>
+
+#### 2020
+<ul>
+	<li>Regan MT, <strong>Young SWH</strong>, Mannheimer S. 2020. <a href="https://doi.org/10.18438/eblip29729">Improving Learner-driven Teaching Practices through Reflective Assessment</a>. Evidenced Based Library and Information Practice. 15(3):59–77.</li>
+	<li><strong>Young SWH</strong>, Walker P, Swauger S, Gibeault MJ, Mannheimer S, Clark J. 2020. <a href="https://doi.org/10.5860/jifp.v4i4.7134">Participatory Approaches for Designing and Sustaining Privacy-Oriented Library Services</a>. Journal of Intellectual Freedom and Privacy. 4(4): 3-18. <a href="https://doi.org/10.31229/osf.io/m8rg3">[Free full text available]</a></li>
+	<li><strong>Young SWH</strong>, Mannheimer S, Rossmann D, Swedman D, Shanks JD. 2020. <a href="https://doi.org/10.1080/01616846.2019.1637222">Service Blueprinting: A Method for Assessing Library Technologies Within an Interconnected Service Ecosystem</a>. Public Library Quarterly. 39(3): 190–211.<a href="https://osf.io/preprints/lissa/j6hfx">[Free full text available]</a></li>
+	<li><strong>Young SWH</strong>, Chao Z, Chandler A. 2020. <a href="https://doi.org/10.6017/ital.v39i1.11787">User Experience Methods and Maturity in Academic Libraries</a>. Information Technology and Libraries. 39(1).</li>
+</ul>
+
+#### 2019
+<ul>
+	<li>Shanks JD, <strong>Young SWH</strong>. 2019. <a href="https://doi.org/10.3389/feduc.2019.00048">Applying Attributes of Contemplative Technopedagogy to a Social Media Assignment</a>. Frontiers in Education. 4(48).</li>
+	<li><strong>Young SWH</strong>, Fargo H, Borrelli S, Chao Z, Swedman D, Gass C. 2019. <a href="https://doi.org/10.29242/lac.2018.60">Assessing and Improving the Experience of Underrepresented Populations: A Participatory Design Approach</a>. In: Proceedings of the 2018 Library Assessment Conference. Houston, TX: Association of Research Libraries.</li>
+	<li><strong> Young SWH</strong> Swedman D, Kyrillidou M. 2019. <a href="https://doi.org/10.29242/lac.2018.39">Meta-Assessment: The ARL Library Assessment Ecosystem Modified for Montana State University</a>. In: Proceedings of the 2018 Library Assessment Conference. Houston, TX: Association of Research Libraries.</li>
+</ul>
+
+
+#### 2018
+<ul>
+	<li><strong>Young SWH</strong>, Brownotter C. 2018. <a href="http://dx.doi.org/10.3998/weave.12535642.0001.901">Toward a More Just Library: Participatory Design with Native American Students</a>. Weave: Journal of Library User Experience. 1(9).</li>
+	<li>OBrien P, <strong>Young SWH</strong>, Arlitsch K, Benedict K. 2018. <a href="https://doi.org/10.1108/OIR-02-2018-0056">Protecting Privacy on the Web: A Study of HTTPS and Google Analytics Implementation in Academic Library Websites</a>. Online Information Review. 42(6):734-751.</li>
+	<li><strong>Young, SWH</strong>. 2018. <a href="https://desfordiv.library.northeastern.edu/participation-design-empathy-justice-the-user-experience-with-underrepresented-populations-uxup-project/">Participation, Design, Empathy, Justice: The User Experience with Underrepresented Populations (UXUP) Project</a>. In: The Design for Diversity Learning Toolkit. Boston, MA: Northeastern University Libraries.</li>
+	<li><strong>Young SWH</strong>, Mannheimer S, Rossmann D, Swedman D, Shanks J. 2018. <a href="https://doi.org/10.7191/jeslib.2018.1134">Assessing and Improving Library Technology with Service Blueprinting</a>. Journal of eScience Librarianship. 7(2).</li>
+</ul>
+
+#### 2017
+<ul>
+	<li>Clark JA, <strong>Young SWH</strong>. 2017. <a href="http://journal.code4lib.org/articles/12320">Linked Data is People: Building a Knowledge Graph to Reshape the Library Staff Directory</a>. Code4Lib Journal. 36.</li>
+</ul>
+
+#### 2016
+<ul>
+	<li><strong>Young SWH</strong>. 2016. <a href="http://dx.doi.org/10.3998/weave.12535642.0001.401">Speed Matters: Performance Improvements for Library Websites</a>. Weave: Journal of Library User Experience. 1(4).</li>
+	<li>Mannheimer S, <strong>Young SWH</strong>, Rossmann D. 2016. <a href="https://bdes.datasociety.net/council-output/improving-services-at-what-cost-examining-the-ethics-of-twitter-research-at-the-montana-state-university-library/">Improving Services—At What Cost? Examining the Ethics of Twitter Research at the Montana State University Library</a>. The Council for Big Data, Ethics, and Society.</li>
+	<li>Mannheimer S, <strong>Young SWH</strong>, Rossmann D. 2016. <a href="https://doi.org/10.1108/JICES-05-2015-0013">On the Ethics of Social Network Research in Libraries</a>. Journal of Communication, Information, and Ethics in Society. 14(2):139–151. <a href="http://scholarworks.montana.edu/xmlui/handle/1/9470">[Free full text available]</a></li>
+</ul>
+
+#### 2015
+<ul>
+	<li>Clark JA, <strong>Young SWH</strong>. 2015. <a href="http://journal.code4lib.org/articles/10668">Building a Better Book in the Browser (Using Semantic Web technologies and HTML5)</a>. Code4Lib Journal. 29.</li>
+	<li>Rossmann D, <strong>Young SWH</strong>. 2015. <a href="http://dx.doi.org/10.1108/LHT-05-2015-0053">Social Media Optimization: Making Library Content Shareable and Engaging</a>. Library Hi Tech. 33(4). <a href="http://scholarworks.montana.edu/xmlui/handle/1/9606">[Free full text available]</a></li>
+	<li><strong>Young SWH</strong>, Rossmann D. 2015. <a href="https://doi.org/10.6017/ital.v34i1.5625">Building Library Community Through Social Media</a>. Information Technology and Libraries. 34(1):20–37.</li>
+</ul>
+
+#### 2014
+<ul>
+	<li><strong>Young SWH</strong>. 2014. <a href="http://dx.doi.org/10.3998/weave.12535642.0001.101">Improving Library User Experience with A/B Testing: Principles and Process</a>. Weave: Journal of Library User Experience. 1(1).</li>
+</ul>
+
+#### 2012
+<ul>
+	<li>Rossmann D, Rossmann B, Meadow K, <strong>Young S</strong>, Notess G. 2012. <a href="https://scottwhyoung.com/wp-content/uploads/2018/04/library-assessment-conference-2012-did-we-get-what-we-paid-for.pdf">Did We Get What We Paid For? An Institutional Assessment of User Behavior, User Expectations, and System Performance of Web Scale Discovery Tools</a>. In: Proceedings of the 2012 Library Assessment Conference Building Effective, Sustainable, Practical Assessment. Charlottesville, VA: Association of Research Libraries. p. 471–484.</li>
 </ul>
 
 ### Articles - Non peer reviewed and popular press 
 <ul>
-  <li>Mannheimer S, Rossmann D, Clark J, Shorish Y, Bond N, Kettler HS, Sheehey B, Young SWH. 2024. Introduction to the Special Issue: Responsible AI in Libraries and Archives. Journal of eScience Librarianship. (13)1.</li>
+	<li>Mannheimer S, Rossmann D, Clark J, Shorish Y, Bond N, Kettler HS, Sheehey B, <strong>Young SWH</strong>. 2024. <a href="https://doi.org/10.7191/jeslib.860">Introduction to the Special Issue: Responsible AI in Libraries and Archives</a>. Journal of eScience Librarianship. (13)1.</li>
+	<li>Rossmann D, <strong>Young SWH</strong>. 2020. <a href="https://doi.org/10.18438/eblip29714">Evidence Based Practice for Virtual Reality Spaces and Services: A Service Design Case Study</a>. Evidenced Based Library and Information Practice. (15)2:143–149.</li>
+	<li><strong>Young SWH</strong>. 2017. <a href="https://www.libraryjournal.com/?detailStory=participatory-design-action-user-experience">Participatory Design in Action</a>. Library Journal. 142(14):26.</li>
+	<li>Rossmann D, <strong>Young SWH</strong>. 2017. <a href="https://americanlibrariesmagazine.org/2017/01/03/social-media-optimization/">Social Media Optimization: Five principles to guide your online activities</a>. American Libraries Magazine. 48(1/2): 71.</li>
+	<li>Rossmann D, <strong>Young SWH</strong>. 2015. <a href="http://scottwhyoung.com/wp-content/uploads/2015/06/using_social_media_to_build_community_rossmann_young.pdf">Using Social Media to Build Community</a>. Computers in Libraries. 35(4):18–22.</li>
+	<li>Arlitsch K, OBrien P, Clark JA, <strong>Young SWH</strong>, Rossmann D. 2014. <a href="https://doi.org/10.1080/01930826.2014.946778">Demonstrating Library Value at Network Scale: Leveraging the Semantic Web With New Knowledge Work</a>. Journal of Library Administration. 54(5):413–425.</li>
+	<li><strong>Young SWH</strong>, Tate AM, Rossmann D, Hansen MA. 2014. <a href="https://doi.org/10.5860/crln.75.8.9174">The Social Media Toll Road: The Promise and Peril of Facebook Advertising</a>. College &amp; Research Library News. 75(8):427–434.</li>
+	<li>Clark J, Marriott R, Custer S, Adams E, Bonnand S, Miller T, <strong>Young S</strong>, Hendrikx J. 2012. <a href="http://arc.lib.montana.edu/snow-science/item/1651">A Searchable Digital Archive of ISSW Proceedings is Available Online!</a> In: Proceedings, 2012 International Snow Science Workshop; Anchorage, AK. p. 807–813.</li>
 </ul>
 
 ### White Papers, Manuals, and Reports
 <ul>
-  <li>Young SWH, Schultz T. 2020. User Stories Report. Montana State University Library.</li>
+	<li><strong>Young SWH</strong>, Schultz T. 2020. <a href="/assets/pdf/user_stories_msu_library_2020.pdf">User Stories Report</a>. Montana State University Library.</li>
+	<li><strong>Young SWH</strong>, Hunts S, Swedman D. 2019. <a href="/assets/pdf/web_usability_progress_report_2019.pdf">Web Usability Progress Report</a>. Montana State University Library.</li>
+	<li><strong>Young SWH</strong>, Regan MT, Rossmann D, Mannheimer S, McKelvey H. 2019. <a href="/assets/pdf/msu_library_certificate_program_swot_report.pdf">SWOT Analysis — Library Certificate Program</a>. Montana State University Library.</li>
+	<li><strong>Young SWH</strong>, Mannheimer S, Clark JA, Hinchliffe, LJ. 2019. <a href="https://doi.org/10.15788/20190416.15445">A Roadmap for Achieving Privacy in the Age of Analytics: A White Paper from A National Forum on Web Privacy and Web Analytics</a>. Montana State University Library.</li>
+	<li><strong>Young SWH</strong>, Clark JA, Mannheimer S, Hinchliffe, LJ. 2019. <a href="https://doi.org/10.15788/20190416.15446">A National Forum on Web Privacy and Web Analytics: Action Handbook</a>. Montana State University Library.</li>
+	<li><strong>Young SWH</strong>, Regan MT, Frank J, Hansen MA, Swedman D. 2018. <a href="/assets/pdf/montana_state_university_library_learning_spaces_task_force_report_final.pdf">Learning Spaces Task Force Report</a>. Montana State University Library.</li>
+	<li><strong>Young SWH</strong>, McKelvey H. 2018. <a href="/assets/pdf/montana_state_university_library_search_ux_report_2018.pdf">Web Search UX Report</a>. Montana State University Library.</li>
+	<li><strong>Young SWH</strong>. 2017. <a href="/assets/pdf/montana_state_university_library_usability_report_2017.pdf">Web Usability Report</a>. Montana State University Library.</li>
 </ul>
+
+
 
 ### Datasets 
 <ul>
@@ -74,15 +155,166 @@ Montana State University
 
 ## Grant Activity
 <ul>
-  <li>“Responsible AI: Tools for Values-driven AI in Libraries and Archives.” Institute of Museum & Library Services, National Leadership Grants for Libraries (Log Number: LG-252307-OLS-22). Funding Award: $248,220. Funding Period: 2022–2025. Principal Investigator: Sara Mannheimer. Co-Principal Investigator: Scott W. H. Young.</li>
+	<li>"Responsible AI: Tools for Values-driven AI in Libraries and Archives." Institute of Museum &amp; Library Services, National Leadership Grants for Libraries (<a href="https://www.imls.gov/grants/awarded/lg-252307-ols-22">Log Number: LG-252307-OLS-22</a>). Funding Award: $248,220. Funding Period: 2022–2025. Principal Investigator: Sara Mannheimer. <strong>Co-Principal Investigator: Scott W. H. Young</strong></li>
+	<li>"A National Forum on Web Privacy and Web Analytics." Institute of Museum &amp; Library Services, National Leadership Grants for Libraries (<a href="https://www.imls.gov/grants/awarded/lg-73-18-0100-18">Log Number: LG-73-18-0100-18</a>). Funding Award: $100,000. Funding Period: 2018–2019. <strong>Principal Investigator: Scott W. H. Young</strong>.</li>
+	<li>"<a href="http://www.montana.edu/storytelling/">Improving the Pipeline for Rural and American Indian Students Entering Computer Science Via Storytelling</a>." National Science Foundation, DRL 1657553. Funding Award: $1,149,691. Funding Period: 2018–2020. Principal Investigator: Brittany T. Fasy. <strong>Co-Principal Investigator: Scott W. H. Young</strong>.</li>
+	<li>"Tribal College Librarians Institute: Strengthening Tribal College Library Capacity to Serve as Community Anchors." Institute of Museum &amp; Library Services, Laura Bush 21st Century Librarian Program (Log Number: RE-95-18-0007-18). Funding Award: $249,926. Funding Period: 2018–2020. Principal Investigator: Mary Anne Hansen. <strong>Co-Coordinator for 2019: Scott W. H. Young</strong>.</li>
+	<li>"Indigenous Participatory Design Toolkit." Funded by: Office of the President, Montana State University - Presidential Emerging Scholars Grant. Funding Award: $2,029. Funding Period: 2017–2018. Emerging Scholar: Connie Brownotter. <strong>Faculty Mentor and Principal Investigator: Scott W. H. Young</strong>.</li>
+	<li>"'RE:Search' Unpacking the Algorithms That Shape Our UX." Funded by: Institute Museum &amp; Library Services, Laura Bush 21st Century Librarian Program (<a href="https://www.imls.gov/grants/awarded/re-72-17-0103-17">Log Number: RE-72-17-0103-17</a>). Funding Award: $50,000. Funding Period: 2017-2018. Principal Investigator: Jason A. Clark. <strong>Lead Consultant for User Experience Assessment: Scott W. H. Young</strong>.</li>
+	<li>"The Inclusive Library Experience: Participatory Design with Native American Students." Funded by: Office of the Provost, Montana State University - Native American Recruitment and Retention Initiatives. Funding Award: $7,220. Funding Period: 2016-2017. <strong>Principal Investigator: Scott W. H. Young</strong>.</li>
+	<li>"<a href="https://web.archive.org/web/20210414084300/https://force11.org/article/15k-challenge-submission-force2016">Radian Data Education and Advocacy Portal</a>." Funded by: FORCE11. Funding Award: $1,500. Funding Period: 2016. Principle Investigator: Sara Mannheimer. <strong>Co-Investigator: Scott W. H. Young</strong>.</li>
+	<li>"Twitter Sentiment Analysis for Research Data Services." Funded by: Center for Faculty Excellence, Montana State University, Faculty Excellence Grant. Funding Award: $4,480. Funding Period: 2015–2016. <strong>Co-Principal Investigators: Scott W. H. Young</strong> and Sara Mannheimer.</li>
+	<li>“Measuring Up: Assessing Accuracy of Reported Use and Impact of Digital Repositories.” Funded by: Institute of Museum &amp; Library Services, National Leadership Grants for Libraries (<a href="https://www.imls.gov/grants/awarded/lg-06-14-0090-14">Log Number: LG-06-14-0090-14</a>). Funding Award: $500,000. Funding Period: 2014-2017. Principal Investigator: Kenning Arlitsch. <strong>Key Personnel: Scott W. H. Young</strong>.</li>
+	<li>“Building a Better Book (in the Browser).” Funded by: Institute Museum &amp; Library Services, Sparks! Ignition Grants for Libraries (<a href="https://www.imls.gov/grants/awarded/sp-02-14-0002-14">Log Number: SP-02-14-0002-14</a>). Funding Award: $24,924. Funding Period: 2014–2015. Principal Investigator: Jason A. Clark. <strong>Key Personnel: Scott W. H. Young</strong>.</li>
+	<li>“Getting Found: Search Engine Optimization for Digital Repositories.” Funded by: Institute of Museum &amp; Library Services, National Leadership Grants for Libraries (<a href="https://www.imls.gov/grants/awarded/lg-07-11-0345-11">Log Number: LG-07-11-0345-11</a>). Funding Award: $439,142. Funding Period: 2011-2014. Principal Investigator: Kenning Arlitsch. <strong>Key Personnel: Scott W. H. Young</strong>.</li>
 </ul>
 
-## Presentations
+## Presentations (*Peer-reviewed, †Invited)
 
 #### 2025
 <ul>
-  <li>“Trusting the Process: Tools and Techniques for Participatory Design in Libraries.” User Experience in Libraries (UXLibs). Liverpool, UK. June 2025.</li>
-  <li>“Large-Scale Research, Data Sovereignty, Ethics and AI.” Roundtable discussion co-moderated with Kristen Intemann, Nick Lux, and Sara mannheimer. Symposia on Large-Scale Research: The Future of Research in the Age of AI. Bozeman, MT. March 28, 2025.</li>
+	<li>“Trusting the Process: Tools and Techniques for Participatory Design in Libraries.” User Experience in Libraries (UXLibs). Liverpool, UK. June 2025.†</li>
+	<li>“Large-Scale Research, Data Sovereignty, Ethics and AI.” Roundtable discussion co-moderated with Kristen Intemann, Nick Lux, and Sara mannheimer. Symposia on Large-Scale Research: The Future of Research in the Age of AI. Bozeman, MT. March 28, 2025.</li>
+	<li>“Implementing Co-Design: Tools and Methods.” Presentation for <em>Community Co-Design: How to Collaborate with Your Community to Build Programs and Services</em>, an online course hosted by Library Journal. March 11, 2025.†</li>
+	<li>“Trust the Process: Tools and Techniques for Library Co-Design.” Workshop presented to the Catalyst Leadership Development of the California Libraries Learn (CALL) Academy. March 4, 2025.†</li>
+	<li>“An Ethical Reflection Aid for Implementing AI in Libraries and Archives,” co-authored and co-presented with Sara Mannheimer. Network of the National Library of Medicine (NNLM), Health Bytes with Region 3 Webinar Series. February 2025.†</li>
+</ul>
+
+#### 2024
+<ul>
+	<li>“Ethics, Evaluation, AI, and Storytelling: Data Lenses on Library Assessment,” panel presentation with Ashley E. Sands, Kathleen McDowell, Kyle M. L. Jones, and Lisa Janicke Hinchliffe at the Library Assessment Conference. Portland, OR. November 2024.*</li>
+	<li>“Practicing Participation: Tools, Techniques, and Process for Participatory Design in Library Assessment.” Pre-conference workshop at the Library Assessment Conference. November 2024.†</li>
+	<li>“Responsibly Implementing AI in Libraries and Archives: Introducing and Testing a Prototype Decision-Making Tool for Practitioners,” co-authored and co-presented with Bonnie Sheehey. Digital Library Federation (DLF) Forum. East Lansing, MI. July 2024.*</li>
+	<li>“Participatory Design: A Model for Empathetic Library User Experience.” User Experience in Libraries (UXLibs). Cambridge, UK. June 2024.*</li>
+	<li>“Implementing Co-Design: Principles and Practices for Participatory Community Engagement in Libraries,” with Hailley Fargo. Workshop presented to the Catalyst Leadership Development of the California Libraries Learn (CALL) Academy. June 7, 2024.†</li>
+	<li>“JTBD (Jobs-To-Be-Done) Framework,” co-authored and co-presented with Taylor Moorman. UX for Libraries (UX4L) Multipart Series, hosted by ALA. Online. May 2024.†</li>
+	<li>“Implementing AI Responsibly in Libraries and Archives,” co-authored and co-presented with Sara Mannheimer, Natalie Bond, and Doralyn Rossmann. Montana Academic Library Symposium. Great Falls, MT. May 2024.</li>
+	<li>“Implementing Co-Design: Tools and Methods.” Presentation for <em>Community Co-Design: How to Collaborate with Your Community to Build Programs and Services</em>, an online course hosted by Library Journal. March 2024.†</li>
+</ul>
+
+#### 2023
+<ul>
+	<li>“Responsible AI: New Tools for Ethical Implementation of Artificial Intelligence,” co-authored with Jason A. Clark. AI4LAM Annual Conference. November 2023.*</li>
+	<li>“What Does a Values-Based Practice Look Like? Identifying the Characteristics of Ethical Library Assessment.” 15th International Conference on Performance Measurement in Libraries. July 2023.*</li>
+</ul>
+
+#### 2022
+<ul>
+	<li>“Introducing the Values-Sensitive Library Assessment Toolkit: A Practical Approach for Ethical Assessment.” Assessment Accelerator Workshop. Library Assessment Conference. November 2022.*</li>
+	<li>“Participatory Design as Library Assessment: Principles and Practices for Creating and Evaluating Inclusive Library Teams &amp; Services,” with Hailley Fargo. Workshop presented at the Kentucky Library Association Annual Conference. Lexington, KY. October 2022.†</li>
+	<li>“Building Assessment Dashboards for Your Library,” co-authored with David Swedman. Tri-Conference of the Montana Library Association (MLA), Pacific Northwest Library Association (PNLA), and Mountain Plains Library Association (MPLA). August 2022.*</li>
+	<li>“Participatory Design in Libraries: Principles and Process for Creating and Evaluating Inclusive Library Services with Distinctive Populations,” with Hailley Fargo. Workshop presented to the Five College Consortium at UMass Amherst. Amherst, MA. June 2022.†</li>
+	<li>“Building Assessment Dashboards for Your Library,” co-authored and co-presented with David Swedman. Montana Academic Library Symposium. May 2022.</li>
+</ul>
+
+#### 2021
+<ul>
+	<li>"Making Change from Within: Integrating Accessibility into Strategic Planning and Assessment," co-authored and co-presented with Jacqueline Frank. Digital GLAM Spaces Conference. November 2021.*</li>
+	<li>“Using Return-on-Investment to Tell a Story of Library Value and Library Values,” co-authored and co-presented with Hannah McKelvey. 14th International Conference on Performance Measurement in Libraries. November 2021.*</li>
+	<li>“​​Building a University that Deserves Indigenous Students: A Participatory Design Approach,” with Connie Brownotter. John F. Helmer Professional Development presentation to the Orbis Cascade Alliance, as a part of the Diversity, Equity, and Inclusion (DEI) Speaker Series. April 2021.†</li>
+</ul>
+
+#### 2020
+<ul>
+	<li>“On Ethical Assessment: Locating and Applying the Core Values of Library and Information Science.” Library Assessment Conference. October 2020.*</li>
+	<li>“What Is the Right Thing To Do? Looking at LIS Practice through the Lens of Professional Ethics.” Access Conference. October 2020.*</li>
+	<li>“When Data Endangers: Tools and Strategies for Risk Assessment, Policy Analysis, and Advocacy,” with Kristin Briney, Scarlet Galvan, Michelle Gibeault, and Paige Walker. Endangered Data Week. September 2020.†</li>
+	<li>“Participatory Design as a Methodology for Enhancing Collaboration, Problem Solving, and Evidence-based Decision-making in Libraries,” with Hailley Fargo. Workshop at the ALA Annual Conference (Conference canceled). Chicago, IL. June 2020.†</li>
+	<li>“Privacy in Practice: Applying the Tools and Resources of the DLF Privacy and Ethics in Technology Working Group,” co-presented with Michelle Gibeault, Paige Walker, Yasmeen Shorish, John Mark Ockerbloom, Margaret Heller, and Dorothea Salo. Panel presentation hosted by the Digital Library Federation. April 2020.</li>
+	<li>“Assessing UX Maturity and Advocating for UX Growth: Tools, Strategies, and Readings for Advancing your UX Practice,” co-authored with Jaci Wilkinson, Zoe Chao, and Adam Chandler, and co-presented with Jaci Wilkinson. Designing for Digital. Austin, TX. March 2020.*</li>
+</ul>
+
+#### 2019
+<ul>
+	<li>"Closing Plenary: A Call to Action." Panel discussion. Digital Library Federation Forum. Tampa, FL. October 2019.†</li>
+	<li>"On Technologies of Surveillance: Skills, Strategies, and Ethical Approaches for Interrogating the Collection and Analysis of Library User Data." Workshop co-facilitated with Paige Walker, Shea Swauger, Michelle Gibeault, and Margaret Heller. Learn@DLF, Digital Library Federation Forum Pre-Conference. Tampa, FL. October 2019.*</li>
+	<li>"Indigenous Participatory Design in Libraries." John F. Helmer Professional Development Workshop presented to the Orbis Cascade Alliance at Reed College. Portland, OR. August 2019.†</li>
+	<li>"Participatory Design as Library Assessment: Principles and Practices for Creating and Evaluating Inclusive Library Services with Distinctive Populations," with Hailley Fargo. Workshop presented to the University of Washington Libraries. Seattle, WA. August 2019.†</li>
+	<li>"Achieving Privacy in the Age of Analytics: Skills, Strategies, and Ethical Approaches," with Sara Mannheimer and Jason A. Clark. OCLC Research Library Partnership: Works in Progress. July 2019.†</li>
+	<li>"Designing Inclusive Information Systems: From Theory to Change." Panel discussion with Dorothy Berry, Emily Drabinski, Karen Hwang, and Raffaele Viglianti, moderated by Amanda Rust. Association for Computers and the Humanities Conference. Pittsburgh, PA. July 2019.*</li>
+	<li>"Achieving Privacy in the Age of Analytics: Skills, Strategies, and Ethical Approaches," with Sara Mannheimer and Jason A. Clark. Discovery and Online Search, Part Two: Personalized Content, Personal Data. NISO Webinar. June 2019.†</li>
+	<li>"Achieving Privacy in the Age of Analytics: Perspectives from the National Forum on Web Privacy and Web Analytics," co-authored with Sara Mannheimer and Jason A. Clark, and presented by Sara Mannheimer. ALA Annual Conference. Washington, DC. June 2019.*</li>
+	<li>"Of Data, Ethics, and Leadership: Building a National Roadmap for Web Privacy and Web Analytics," co-authored and co-presented with Jason A. Clark and Sara Mannheimer. CNI Spring Membership Meeting. St. Louis, MO. April 2019.*</li>
+	<li>Forum discussant, Measuring the Impact of Digital Repositories, funded by the National Science Foundation and hosted by the College of Information Studies at the University of Maryland. College Park, MD. April 2019.†</li>
+	<li>"Of Ethics, Users, and Data: Building a National Conversation for Web Privacy and Web Analytics," co-authored with Jason A. Clark and Sara Mannheimer, and co-presented with Jason A. Clark. Code4Lib Conference. San Jose, CA. February 2019.*</li>
+</ul>
+
+#### 2018
+<ul>
+	<li>"Protecting Privacy on the Web: A study of HTTPS and Google Analytics Implementation in Academic Library Websites," co-authored and co-presented with Kenning Arlitsch. CNI. Washington, DC. December 2018.*</li>
+	<li>"Assessing and Improving the Experience of Underrepresented Populations: A Participatory Design Approach," co-authored with Hailley Fargo, Steve Borrelli, Zoe Chao, Carmen Gass, and David Swedman, and co-presented with Hailley Fargo. Library Assessment Conference. Houston, TX. December 2018.*</li>
+	<li>"Developing Nuanced Metrics," with Doralyn Rossmann. NISO Training Series: Assessment Practices and Metrics. December 2018.†</li>
+	<li>"Meta-Assessment: The ARL Assessment Framework in Practice at Montana State University," co-authored and co-presented with Martha Kyrillidou and David Swedman. Library Assessment Conference. Houston, TX. December 2018.*</li>
+	<li>"Achieving Privacy in the Age of Analytics: Perspectives from the National Forum on Web Privacy and Web Analytics," co-authored and co-presented with Jason A. Clark and Sara Mannheimer. Digital Library Federation Forum. Las Vegas, NV. October 2018.*</li>
+	<li>“Achieving Privacy in the Age of Analytics.” The Computer Campus: Integrating Information Services and Systems. NISO Virtual Conference. August 2018.†</li>
+	<li>"Empowering Native American Undergraduate Students with Participatory Design," co-authored and co-presented with Connie Brownotter. Native American Student Advocacy Institute. Honolulu, HI. June 2018.*</li>
+	<li>"Co-Designing Library Services with Indigenous Peoples." Montana Academic Library Symposium. Billings, MT. May 2018.†</li>
+	<li>"Web Analytics in Libraries," with Sara Mannheimer. Library Values &amp; Privacy Summit, hosted by the Data &amp; Society Research Institute. New York, NY. May 2018.†</li>
+</ul>
+
+#### 2017
+<ul>
+	<li>"Building Capacity for UX at Your Library." Panel discussion with Adam Chandler and Zoe Chao. LITA Forum. Denver, CO. November 2017.*</li>
+	<li>“Introducing Radian: A Community-curated Hub for All Things Data,” co-authored with Ryer Banta, Robin Champieux, Sara Mannheimer, and Danielle Robinson, and co-presented with Sara Mannheimer. FORCE2017. Berlin, Germany. October 2017.†</li>
+	<li>Forum discussant, NDP at 3: Envisioning the Next 3 years of the National Digital Platform, hosted by the Institute of Museum and Library Services. Arlington, VA. October 2017.†</li>
+	<li>"Decolonizing and Indigenizing the Academic Library: A Participatory Design Approach," with Celina Brownotter. American Indian Heritage Day. Montana State University. Bozeman, MT. September 2017.</li>
+	<li>"Participation, Design, Empathy: The User Experience with Underrepresented Populations (UXUP) Project." Tribal College Librarians Institute. Bozeman, MT. May 2017.†</li>
+	<li>"Social Media: What's Next?" American Libraries Live panel discussion hosted by the American Library Association. May 2017.†</li>
+	<li>"Getting Started with UX at Your Library." Texas Library Association Annual Conference. San Antonio, TX. April 2017.†</li>
+	<li>"Introducing Hex UX: An Integrated Method for Generating, Analyzing, and Reporting User Experience Data." Designing for Digital. Austin, TX. April 2017.*</li>
+	<li>"Participatory User Experience Design with Underrepresented Populations: A Model for Disciplined Empathy," co-authored and co-presented with Celina Brownotter. Code4Lib Conference. Los Angeles, CA. March 2017.*</li>
+</ul>
+
+#### 2016
+<ul>
+	<li>"No Such Thing as a Free Lunch: Google Analytics and User Privacy," co-authored and co-presented with Patrick OBrien. DLF Forum. Milwaukee, WI. November 2016.*</li>
+	<li>"The Man in the Machine: Digital Labor Ethics for Academic Research," co-authored and co-presented with Sara Mannheimer. DLF Forum. Milwaukee, WI. November 2016.*</li>
+	<li>"From Practice to Pedagogy: Building a Student-­Centered Social Media Community," co-authored and co-presented with Doralyn Rossmann. International Conference on Learning, Teaching, and Student Success. Bozeman, MT. November 2016.*</li>
+	<li>"Understanding Understanding: Implementing Design-Focused Service Initiatives at Your Library – Curated by ER&amp;L," co-authored with Annie Downey, Kris Johnson, and Joe Marquez, and co-presented with Kris Johnson and Joe Marquez. The Digital Shift: The Service Continuum 8th Annual Virtual Conference. October 2016.†</li>
+	<li>"Exploring Ethics in Data and Technology Research." Panel Discussion, with Jason Clark, Sara Mannheimer, and Justin Shanks. Computer Science Seminar Series. Montana State University. Bozeman, MT. October 2016.†</li>
+	<li>"Putting the 'I' in Data: The Ethics of Using Human-Generated Data as a Research Tool," co-authored with Sara Mannheimer and Doralyn Rossmann. SciDataCon 2016: Advancing the Frontiers of Data in Research. Denver, CO. September 2016.*</li>
+	<li>"Understanding the Library User Experience." Tribal College Librarians Institute. Bozeman, MT. June 2016.</li>
+	<li>"Reading the Reader: Building a User-Centered Publishing Prototype in a Web Browser," co-authored and co-presented with Jan Zauha and Michelle Gollehon. Library Publishing Forum. Denton, TX. May 2016.*</li>
+	<li>"Understanding Understanding: Implementing Design-Focused Service Initiatives at Your Library," co-authored and co-presented with Annie Downey, Kris Johnson, and Joe Marquez. Designing for Digital. Austin, TX. April 2016.*</li>
+	<li>"Hook ‘Em &amp; Keep ‘Em: How Trout U. is Engaging Library Users through Social Media to Build Community," co-authored and co-presented with Ryer Banta and Mary Anne Hansen. PNR Rendezvous webcast hosted by the Pacific Northwest Region of the National Network of Libraries of Medicine. March 2016.</li>
+</ul>
+
+#### 2015 
+<ul>
+	<li>"The Fast and The Furious: Performance Enhancements for Improving the User Experience of Library Websites" co-authored and co-presented with Krista Godfrey. DLF Forum. Vancouver, BC. October 2015.*</li>
+	<li>"Improving Website User Experience with A/B Testing." Workshop hosted by ALA TechSource. June 2015.</li>
+	<li>"Novel Methods for Evaluating Social Media Community Building in Libraries," co-authored with Doralyn Rossmann. Qualitative and Quantitative Methods in Libraries (QQML) International Conference. Paris, France. May 2015.*</li>
+	<li>"Disrupting the Status Quo: New Models &amp; Technologies for Scholarly Communication." Panel discussion. Advancing Research Communication and Scholarship. Philadelphia, PA. April 2015.†</li>
+	<li>"Love Us in Person? LIKE us on Facebook! Social Media Strategies for Engaging your Patrons," co-authored and co-presented with Angela Tate, Mary Anne Hansen, and Doralyn Rossmann. Montana Library Association - Annual Conference. Bozeman, MT. April 2015.</li>
+	<li>"Your Chocolate is in My Peanut Butter! Mixing up Content and Presentation Layers to Build Smarter Books in Browsers with RDFa, Schema.org, and Linked Data Topics," co-authored and co-presented with Jason Clark. Code4Lib Conference. Portland, OR. February 2015.*</li>
+	<li>"Data Mining and Data Making: Library Digital Services and Applied Research." Panel discussion with Jason A. Clark and Sara Mannheimer. Institute on Ecosystems Rough Cut Science. Bozeman, MT. January 2015.†</li>
+</ul>
+
+#### 2014
+<ul>
+	<li>"Using Sentiment Analysis of Twitter to Develop Strategies for Library Data Sharing Partnerships," co-authored and co-presented with Sara Mannheimer. CNI. Washington, DC. December 2014.*</li>
+	<li>"Share and Share Alike: Applying Social Media Optimization (SMO) to Enhance Web Content and Connect with Users," co-authored and co-presented with Doralyn Rossmann. LITA Forum. Albuquerque, NM. November 2014.*</li>
+	<li>"#Win or #Fail: Measuring Researcher Attitudes toward Open Data Using Sentiment Analysis of Twitter," co-authored with Sara Mannheimer. DLF Forum. Atlanta, GA. October 2014.*</li>
+	<li>"Library UX: Creating Usable and Useful Websites," co-authored and co-presented with Aaron Schmidt. Webcast panel discussion hosted by Library Journal. October 2014.</li>
+	<li>"Linked Data is People: Using Linked Data to Reshape the Library Staff Directory," co-authored and co-presented with Jason Clark. Access. Calgary, AB. September 2014.*</li>
+	<li>"Building Library Community through Social Media," co-authored and co-presented with Doralyn Rossmann. Webinar hosted by ACRL. September 2014.</li>
+	<li>"Search Engine Optimization (SEO) for Libraries," co-authored and co-presented with Kenning Arlitsch, Jason Clark, and Patrick OBrien. Workshop hosted by ALA-LITA. July 2014.</li>
+	<li>"Assessing an Academic Library’s Social Media Program," co-authored with Doralyn Rossmann. Presented by Brian W. Rossmann at the American Library Association Annual Conference as a participating institution in the Association of College &amp; Research Libraries program Assessment in Action: Academic Libraries and Student Success. Las Vegas, NV. June 2014.</li>
+	<li>"Transforming Community with a Strategic Social Media Program," co-authored and co-presented with Doralyn Rossmann. CNI. St. Louis, MO. March-April 2014.*</li>
+	<li>"All Aboard - The Party’s Starting! Setting a Course for Social Media Success," co-authored and co-presented with Mary Anne Hansen, Doralyn Rossmann, and Angela Tate. Webinar hosted by ALA-LITA. August 2013 and April 2014.</li>
+	<li>"Strategic Social Media: Creating Library Community Online," co-authored and co-presented with Mary Anne Hansen, Doralyn Rossmann, and Angela Tate. Pre-conference workshop at the American Library Association Midwinter Meeting. Philadelphia, PA. January 2014.</li>
+</ul>
+
+#### 2013
+<ul>
+	<li>"Building a Better Book (In the Browser): Using HTML5 to Transform and Unlock Book Content," co-authored and co-presented with Jason Clark. CNI. Washington, DC. December 2013.*</li>
+	<li>"Using A/B/n Testing to Improve the User Experience of Library Websites." LITA Forum. Louisville, KT. November 2013.*</li>
+	<li>"Metadata First: Using Structured Data Markup and the Google Custom Search API to Outsource Your Digital Collection Search Index," co-authored and co-presented with Jason Clark. DLF Forum. Austin, TX. November 2013.*</li>
+	<li>"Building a Better Book (In the Browser): Using HTML5 to Transform and Unlock Book Content," co-authored and co-presented with Jason Clark. Access. St. John's, Newfoundland. September 2013.*</li>
+	<li>"Online Community Building in an Academic Context: A University Library Case Study," co-authored and co-presented with Doralyn Rossmann. Social Media and Society - International Annual Conference. Halifax, NS. September 2013.*</li>
+	<li>"Social Media for Libraries," co-authored and co-presented with Angela Tate. Tribal College Librarians Institute. May 2013.</li>
+	<li>"Digital Access &amp; Preservation." Panel Discussion. Montana Academic Libraries Symposium. April 2013.</li>
+	<li>"Welcome to the Machine: Making Digital Library Collections Findable by People and Bots Using SEO, Schema.org, and HTML5 Microdata," co-authored and co-presented with Jason Clark. HTML5 and CSS3: Ready for Prime Time? Conference session hosted by Amigos Library Services. February 2013.</li>
 </ul>
 
 ## Public Scholarship
