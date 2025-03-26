@@ -26,16 +26,16 @@ Montana State University
 ### Books
 
 <ul>
-  <li>Young SWH. 2024. <em><a href="https://litwinbooks.com/books/knowing-our-value-and-our-values/">Knowing our Value and our Values: Toward An Ethical Practice of Library Assessment</a></em>. Library Juice Press.</li>
-  <li>Young SWH, Rossmann D, editors. 2017. <em><a href="https://rowman.com/ISBN/9781442270510/Using-Social-Media-to-Build-Library-Communities-A-LITA-Guide">Using Social Media to Build Library Communities: A LITA Guide</a></em>. Rowman & Littlefield.</li>
-  <li>Rossmann D, Young SWH. 2016. <em><a href="https://doi.org/10.5860/ltr.52n8">Social Media Optimization: Principles for Building and Engaging Community</a></em>. ALA TechSource.</li>
+  <li><strong>Young SWH</strong>. 2024. <em><a href="https://litwinbooks.com/books/knowing-our-value-and-our-values/">Knowing our Value and our Values: Toward An Ethical Practice of Library Assessment</a></em>. Library Juice Press.</li>
+  <li><strong>Young SWH</strong>, Rossmann D, editors. 2017. <em><a href="https://rowman.com/ISBN/9781442270510/Using-Social-Media-to-Build-Library-Communities-A-LITA-Guide">Using Social Media to Build Library Communities: A LITA Guide</a></em>. Rowman & Littlefield.</li>
+  <li>Rossmann D, <strong>Young SWH</strong>. 2016. <em><a href="https://doi.org/10.5860/ltr.52n8">Social Media Optimization: Principles for Building and Engaging Community</a></em>. ALA TechSource.</li>
 </ul>
 
 ### Articles and Book Chapters - Peer Reviewed
 #### 2025
 
 <ul>
-  <li>Young SWH. 2025. The Values-Sensitive Library Assessment Toolkit: A Decision Aid for Ethical Practice. In: Tureen A, Koziura A, editors. Making Values-Based Decisions in the Academic Library. ACRL. (Accepted, forthcoming)</li>
+  <li><strong>Young SWH</strong>. 2025. The Values-Sensitive Library Assessment Toolkit: A Decision Aid for Ethical Practice. In: Tureen A, Koziura A, editors. Making Values-Based Decisions in the Academic Library. ACRL. (Accepted, forthcoming)</li>
 </ul>
 
 #### 2024
