@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  {{ site.title }} - About
+title:  Scott W. H. Young - About
 ---
 
 # About
