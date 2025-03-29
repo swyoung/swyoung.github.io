@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  Scott W. H. Young - About
+description: Professional bio for Scott W. H. Young, UX & Assessment Librarian at Montana State University.
 ---
 
 # About
