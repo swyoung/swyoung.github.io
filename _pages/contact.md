@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contact
+title: Scott W. H. Young - Contact
 ---
 
 # Contact
