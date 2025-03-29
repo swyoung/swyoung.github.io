@@ -1,4 +1,4 @@
 ---
 layout: projects
-title: Projects
+title: Scott W. H. Young - Projects
 ---
