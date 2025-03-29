@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CV
+title: Scott W. H. Young - CV
 ---
 
 # Curriculum Vita
