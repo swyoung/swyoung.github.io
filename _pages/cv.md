@@ -170,7 +170,8 @@ Montana State University
 	<li>“Getting Found: Search Engine Optimization for Digital Repositories.” Funded by: Institute of Museum &amp; Library Services, National Leadership Grants for Libraries (<a href="https://www.imls.gov/grants/awarded/lg-07-11-0345-11">Log Number: LG-07-11-0345-11</a>). Funding Award: $439,142. Funding Period: 2011-2014. Principal Investigator: Kenning Arlitsch. <strong>Key Personnel: Scott W. H. Young</strong>.</li>
 </ul>
 
-## Presentations (*Peer-reviewed, †Invited)
+## Presentations
+(*Peer-reviewed, †Invited)
 
 #### 2025
 <ul>
