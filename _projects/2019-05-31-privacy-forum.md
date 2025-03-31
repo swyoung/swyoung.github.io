@@ -2,7 +2,7 @@
 layout: default
 title: "National Forum on Web Privacy and Web Analytics"
 pinned: false
-stack: "An IMLS-funded project to shape a better analytics practice that protects users’ privacy from unwanted third-party tracking and targeting" 
+description: "An IMLS-funded project to shape a better analytics practice that protects users’ privacy from unwanted third-party tracking and targeting" 
 order: 3
 usehighlight: false
 ---
