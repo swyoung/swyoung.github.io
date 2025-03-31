@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Scott W. H. Young - CV
-description: Curriculum vita (CV) for Scott W. H. Young, UX & Assessment Librarian at Montana State University.
+description: Curriculum Vita (CV) for Scott W. H. Young, UX & Assessment Librarian at Montana State University.
 ---
 
 # Curriculum Vita
