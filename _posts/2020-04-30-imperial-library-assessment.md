@@ -1,7 +1,8 @@
 ---
 layout: post
 usehighlight: false
-title: On the Imperial History of Library Assessment
+title: On the Imperial History of Library Assessment - Scott W. H. Young - Blog
+description: A post discussion the connections between library assessment and Victorian ideas about information, including quantitative measurements, a practice of surveillance, and institutional strategic planning.
 date: 2020-04-30
 ---
 
