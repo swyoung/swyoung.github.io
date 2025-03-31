@@ -9,20 +9,21 @@ usehighlight: false
 
 
 # {{ page.title }}
+## {{ page.description }}
 
 <br>
 
 <img style="display: block;" class="img-fluid" src="/assets/img/privacy_forum.jpg" alt="image of a design activity showing a boat with anchors attached">
 <em>An image from the "Anchors & Sails" activity that event participants completed</em>
 
-## Project Description
+### Project Description
 Funded by the Institute of Museum and Library Services, the Privacy Forum was held September 2018 in Bozeman, Montana, where 40 librarians, technologists, and privacy researchers collaborated in producing a practical roadmap for enhancing analytics practic3s in support of privacy.
 
-## Collaborators
+### Collaborators
 40 information and technology professionals from 37 different organizations
 
-## Timeline
+### Timeline
 2017–2019
 
-## Project Page
+### Project Page
 [www.lib.montana.edu/indigenous-design-toolkit](https://www.lib.montana.edu/privacy-forum/)
