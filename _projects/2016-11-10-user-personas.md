@@ -2,7 +2,7 @@
 layout: default
 title: "User Personas"
 pinned: false
-stack: "A set of 4 library user personas" 
+description: "A set of 4 library user personas" 
 order: 6
 usehighlight: false
 ---
