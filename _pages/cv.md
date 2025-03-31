@@ -5,16 +5,14 @@ description: Curriculum Vita (CV) for Scott W. H. Young, UX & Assessment Librari
 ---
 
 # Curriculum Vita
-
+---
 **Scott W. H. Young**, PhD, MLIS\
 User Experience & Assessment Librarian
 
-Visit *[www.scottwhyoung.com](https://www.scottwhyoung.com)*\
-Write *[scott.young6 at montana.edu](mailto:scott.young6@montana.edu)*   
+*Visit* [www.scottwhyoung.com](https://www.scottwhyoung.com)\
+*Write* [scott.young6 at montana.edu](mailto:scott.young6@montana.edu)   
 
 Download <a href="/assets/pdf/scott_w_h_young_cv.pdf">CV as a PDF <i class="fa-solid fa-file-pdf"></i></a>
-
-<br>
 
 ---
 
