@@ -14,4 +14,4 @@ I [publish](/cv#publications) and [present](/cv#presentations) widely on library
 
 I hold an MA in [Archives and Public History from New York University](https://wp.nyu.edu/nyuhistoryma/aph-program-details/), an MS in [Library and Information Science from Long Island University](https://www.liu.edu/palmer), and a PhD in [Library and Information Science from Humboldt University of Berlin](https://www.ibi.hu-berlin.de/en/about-us), with a [dissertation that examines the ethical practice of library assessment](https://doi.org/10.18452/25372).
 
-Read more on [my CV](/cv) or take a look at [project highlights](/projects). I also very infrequently share [informal posts on library topics](/blog). 
+Read more on [my CV](/cv) or take a look at [project highlights](/projects). I also very infrequently share [informal posts on library topics](/posts). 
