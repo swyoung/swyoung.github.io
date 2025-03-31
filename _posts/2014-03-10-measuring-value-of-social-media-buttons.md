@@ -1,7 +1,7 @@
 ---
 layout: post
 usehighlight: false
-title: Measuring the Value of Social Media Buttons - Scott W. H. Young - Blog
+title: Measuring the Value of Social Media Buttons
 description: A post discussing web traffic to a library website via social media buttons
 date: 2014-03-10
 ---
