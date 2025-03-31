@@ -15,7 +15,7 @@ layout: default
         {% endif %}
         <div class="card-body">
           <h1 class="card-title pb-2" font-size: 120%;">{{ project.title }}</h1>
-          <h6 class="mb-2 card-subtitle" style="font-size: 110%">{{ project.stack }}</h6>
+          <h6 class="mb-2 card-subtitle" style="font-size: 110%">{{ project.description }}</h6>
           <p class="card-text">{{ project.snippet }}</p>
           <span>{% if project.githublink %}<a href="{{ project.githublink }}" style="color: #000;" target="_blank"><span class="fa fa-github fa-lg"></span></a>{% endif %}</span><a href="{{ site.baseurl }}{{ project.url }}">&nbsp;Read more</a>
         </div>
@@ -28,7 +28,7 @@ layout: default
       <div class="card">
         <div class="card-body">
           <h1 class="card-title pb-2" font-size: 120%;">{{ project.title }}</h1>
-          <h6 class="mb-2 card-subtitle" style="font-size: 110%">{{ project.stack }}</h6>
+          <h6 class="mb-2 card-subtitle" style="font-size: 110%">{{ project.description }}</h6>
           <p class="card-text">{{ project.snippet }}</p>
           <span>{% if project.githublink %}<a href="{{ project.githublink }}" style="color: #000;" target="_blank"><span class="fa fa-github fa-lg"></span></a>{% endif %}</span><a href="{{ site.baseurl }}{{ project.url }}">Read more</a>
         </div>
