@@ -6,6 +6,8 @@ description: Curriculum Vita (CV) for Scott W. H. Young, UX & Assessment Librari
 
 # Curriculum Vita
 
+<br>
+
 ---
 
 **Scott W. H. Young**, PhD, MLIS\
