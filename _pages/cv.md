@@ -12,7 +12,7 @@ description: Curriculum Vita (CV) for Scott W. H. Young, UX & Assessment Librari
 User Experience & Assessment Librarian
 
 Visit *[www.scottwhyoung.com](https://www.scottwhyoung.com)*\
-Write *[scott.young6 at montana.edu]((mailto:scott.young6@montana.edu)*   
+Write *[scott.young6 at montana.edu](mailto:scott.young6@montana.edu)*   
 
 ---
 
