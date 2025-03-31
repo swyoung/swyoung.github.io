@@ -14,7 +14,11 @@ User Experience & Assessment Librarian
 Visit *[www.scottwhyoung.com](https://www.scottwhyoung.com)*\
 Write *[scott.young6 at montana.edu](mailto:scott.young6@montana.edu)*   
 
+Download <a href="/assets/pdf/scott_w_h_young_cv.pdf">CV as a PDF <i class="fa-solid fa-file-pdf"></i></a>
+
 ---
+
+<br>
 
 ## Research and Practice Areas
 <ul>
@@ -24,7 +28,7 @@ Write *[scott.young6 at montana.edu](mailto:scott.young6@montana.edu)*
   <li>Privacy and Ethics</li>
 </ul>
 
----
+<br>
 
 ## Academic Appointments
 Montana State University
@@ -35,6 +39,8 @@ Montana State University
   <li>Instructor. Digital Initiatives Librarian. 2012–2013.</li>
 </ul>
 
+<br>
+
 ## Education
 <ul>
   <li>PhD Library and Information Science. Humboldt University of Berlin. 2022.</li>
@@ -42,6 +48,8 @@ Montana State University
   <li>MA Archives and Public History. New York University. 2011.</li>
   <li>BA Classical Archaeology (Summa Cum Laude). University of Minnesota. 2005.</li>
 </ul>
+
+<br>
 
 ## Publications
 ### Books
@@ -159,8 +167,6 @@ Montana State University
 	<li><strong>Young SWH</strong>. 2017. <a href="/assets/pdf/montana_state_university_library_usability_report_2017.pdf">Web Usability Report</a>. Montana State University Library.</li>
 </ul>
 
-
-
 ### Datasets 
 <ul>
   <li>Mannheimer S, Bond N, <strong>Young SWH</strong>, Kettler HS; Marcus A, Slipher S, Clark, JA, Shorish Y, Rossmann D, Sheehey B. 2024. <a href="https://doi.org/10.5064/F6QME490">Data for: Responsible AI Practice in Libraries and Archives: A Review of the Literature</a>. Qualitative Data Repository. QDR Main Collection. V1. </li>
@@ -173,6 +179,8 @@ Montana State University
   <li><strong>Young SWH</strong>, Rossmann D, Shanks J. 2015. <a href="http://doi.org/10.15788/m26p43"> Montana State University (MSU) Library Social Media Survey</a>. Montana State University ScholarWorks.</li>
   <li><strong>Young SWH</strong>. 2014. <a href="http://doi.org/10.15788/m2rp42">A/B Testing Web Analytics Data [dataset]</a>. Montana State University ScholarWorks.</li>
   </ul>
+
+<br>
 
 ## Grant Activity
 <ul>
@@ -190,13 +198,15 @@ Montana State University
 	<li>“Getting Found: Search Engine Optimization for Digital Repositories.” Funded by: Institute of Museum &amp; Library Services, National Leadership Grants for Libraries (<a href="https://www.imls.gov/grants/awarded/lg-07-11-0345-11">Log Number: LG-07-11-0345-11</a>). Funding Award: $439,142. Funding Period: 2011-2014. Principal Investigator: Kenning Arlitsch. <strong>Key Personnel: Scott W. H. Young</strong>.</li>
 </ul>
 
+<br>
+
 ## Presentations
 (*Peer-reviewed, †Invited)
 
 #### 2025
 <ul>
 	<li>“Trusting the Process: Tools and Techniques for Participatory Design in Libraries.” User Experience in Libraries (UXLibs). Liverpool, UK. June 2025.†</li>
-	<li>“Large-Scale Research, Data Sovereignty, Ethics and AI.” Roundtable discussion co-moderated with Kristen Intemann, Nick Lux, and Sara mannheimer. Symposia on Large-Scale Research: The Future of Research in the Age of AI. Bozeman, MT. March 28, 2025.</li>
+	<li>“Large-Scale Research, Data Sovereignty, Ethics and AI.” Roundtable discussion co-moderated with Kristen Intemann, Nick Lux, and Sara Mannheimer. Symposia on Large-Scale Research: The Future of Research in the Age of AI. Bozeman, MT. March 28, 2025.</li>
 	<li>“Implementing Co-Design: Tools and Methods.” Presentation for <em>Community Co-Design: How to Collaborate with Your Community to Build Programs and Services</em>, an online course hosted by Library Journal. March 11, 2025.†</li>
 	<li>“Trust the Process: Tools and Techniques for Library Co-Design.” Workshop presented to the Catalyst Leadership Development of the California Libraries Learn (CALL) Academy. March 4, 2025.†</li>
 	<li>“An Ethical Reflection Aid for Implementing AI in Libraries and Archives,” co-authored and co-presented with Sara Mannheimer. Network of the National Library of Medicine (NNLM), Health Bytes with Region 3 Webinar Series. February 2025.†</li>
@@ -339,6 +349,8 @@ Montana State University
 	<li>"Welcome to the Machine: Making Digital Library Collections Findable by People and Bots Using SEO, Schema.org, and HTML5 Microdata," co-authored and co-presented with Jason Clark. HTML5 and CSS3: Ready for Prime Time? Conference session hosted by Amigos Library Services. February 2013.</li>
 </ul>
 
+<br>
+
 ## Public Scholarship
 
 <ul>
@@ -353,6 +365,8 @@ Montana State University
   <li>Young SWH. "<a href="https://www.diglib.org/dlf-forum-2013-thoughts-from-a-new-librarian/">DLF Forum 2013—Thoughts from a New Librarian</a>." Digital Library Federation. 25 November 2013.</li>
   <li>Young SWH, Clark JA, OBrien P, Arlitsch K. "<a href="https://www.diglib.org/metadata-first-using-structured-data-markup-and-the-google-custom-search-api-to-outsource-your-digital-collection-search-index/">Metadata First: Using Structured Data Markup and the Google Custom Search API to Outsource Your Digital Collection Search Index</a>." Digital Library Federation. 5 September 2013.</li>
 </ul>
+
+<br>
 
 ## Teaching Activity
 ### Credit-bearing Courses
@@ -369,6 +383,8 @@ Montana State University
 <ul>
   <li>McNair Scholar Faculty Mentor for Connie Brownotter. Project Title: "Indigenizing Student Success Services: New Models for Supporting Whole-Self Well-Being." 2019–2021.</li>
 </ul>
+
+<br>
 
 ## Service
 
@@ -462,6 +478,8 @@ Montana State University
   <li>Bozeman UX Mini-Meet. Program Co-Organizer and Presenter. 2014–2017.</li>
 </ul>
 
+<br>
+
 ## Media Appearances
 <ul>
   <li>Price G. <a href="https://www.infodocket.com/2024/09/23/journal-article-responsible-ai-practice-in-libraries-and-archives-a-review-of-the-literature/">Journal Article: “Responsible AI Practice in Libraries and Archives: A Review of the Literature”</a>. INFOdocket. 23 September 2024.</li>
@@ -472,6 +490,8 @@ Montana State University
   <li>Cantrell A. "<a href="http://www.montana.edu/news/16653/msu-librarians-report-highlights-ways-to-build-and-engage-community-through-social-media">MSU librarians’ report highlights ways to build and engage community through social media</a>." MSU News Service. 17 January 2017.</li>
   <li>Ruff C. "<a href="http://chronicle.com/article/Academic-Publishers-Experiment/235785">Academic Publishers Experiment With 'Altmetrics' to Track Reach and Impact</a>." The Chronicle of Higher Education. 22 March 2016. [<a href="https://www.facebook.com/relearningproject/posts/1096233450437338">Follow-up Q&amp;A</a>]</li>
 </ul>
+
+<br>
 
 ## Professional Development
 <ul>
@@ -486,6 +506,8 @@ Montana State University
   <li>Leadership MSU. Class of 2014.</li>
 </ul>
 
+<br>
+
 ## Awards and Recognition
 <ul>
   <li>Author of the Month, Journal of eScience Librarianship. January 2022.</li>
@@ -499,4 +521,4 @@ Montana State University
 
 <br>
 
-Last updated: March 25, 2025
+Last updated: March 31, 2025
