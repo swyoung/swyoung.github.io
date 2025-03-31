@@ -1,7 +1,8 @@
 ---
 layout: post
 usehighlight: false
-title: Andrew Carnegie, Librarian
+title: Andrew Carnegie, Librarian - Scott W. H. Young - Blog
+description: Andrew Carnegie was a steel tycoon. Andrew Carnegie was rich. Andrew Carnegie was a librarian. Two of these statements are true.
 date: 2015-11-03
 ---
 
