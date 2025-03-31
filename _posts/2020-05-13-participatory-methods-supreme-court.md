@@ -1,7 +1,8 @@
 ---
 layout: post
 usehighlight: false
-title: Participatory Methods at Supreme Court Oral Argument
+title: Participatory Methods at Supreme Court Oral Argument - Scott W. H. Young - Blog
+description: Participatory methods allow more people to share their voice in decision-making processes. Recent changes to the structure of Supreme Court oral argument have led to dramatically more participation—including from the typically taciturn Justice Thomas.
 date: 2020-05-13
 ---
 
