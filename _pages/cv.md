@@ -58,7 +58,7 @@ Montana State University
   <li><strong>Young SWH</strong>. 2024. <em><a href="https://litwinbooks.com/books/knowing-our-value-and-our-values/">Knowing our Value and our Values: Toward An Ethical Practice of Library Assessment</a></em>. Library Juice Press.</li>
   <li><strong>Young SWH</strong>, Rossmann D, editors. 2017. <em><a href="https://rowman.com/ISBN/9781442270510/Using-Social-Media-to-Build-Library-Communities-A-LITA-Guide">Using Social Media to Build Library Communities: A LITA Guide</a></em>. Rowman & Littlefield.</li>
   <li>Rossmann D, <strong>Young SWH</strong>. 2016. <em><a href="https://doi.org/10.5860/ltr.52n8">Social Media Optimization: Principles for Building and Engaging Community</a></em>. ALA TechSource.</li>
-</ul>
+</ul><br>
 
 ### Articles and Book Chapters - Peer Reviewed
 #### 2025
@@ -105,7 +105,6 @@ Montana State University
 	<li><strong> Young SWH</strong> Swedman D, Kyrillidou M. 2019. <a href="https://doi.org/10.29242/lac.2018.39">Meta-Assessment: The ARL Library Assessment Ecosystem Modified for Montana State University</a>. In: Proceedings of the 2018 Library Assessment Conference. Houston, TX: Association of Research Libraries.</li>
 </ul>
 
-
 #### 2018
 <ul>
 	<li><strong>Young SWH</strong>, Brownotter C. 2018. <a href="http://dx.doi.org/10.3998/weave.12535642.0001.901">Toward a More Just Library: Participatory Design with Native American Students</a>. Weave: Journal of Library User Experience. 1(9).</li>
@@ -141,7 +140,7 @@ Montana State University
 #### 2012
 <ul>
 	<li>Rossmann D, Rossmann B, Meadow K, <strong>Young S</strong>, Notess G. 2012. <a href="/assets/pdf/library-assessment-conference-2012-did-we-get-what-we-paid-for.pdf">Did We Get What We Paid For? An Institutional Assessment of User Behavior, User Expectations, and System Performance of Web Scale Discovery Tools</a>. In: Proceedings of the 2012 Library Assessment Conference Building Effective, Sustainable, Practical Assessment. Charlottesville, VA: Association of Research Libraries. p. 471–484.</li>
-</ul>
+</ul><br>
 
 ### Articles - Non peer reviewed and popular press 
 <ul>
@@ -153,7 +152,7 @@ Montana State University
 	<li>Arlitsch K, OBrien P, Clark JA, <strong>Young SWH</strong>, Rossmann D. 2014. <a href="https://doi.org/10.1080/01930826.2014.946778">Demonstrating Library Value at Network Scale: Leveraging the Semantic Web With New Knowledge Work</a>. Journal of Library Administration. 54(5):413–425.</li>
 	<li><strong>Young SWH</strong>, Tate AM, Rossmann D, Hansen MA. 2014. <a href="https://doi.org/10.5860/crln.75.8.9174">The Social Media Toll Road: The Promise and Peril of Facebook Advertising</a>. College &amp; Research Library News. 75(8):427–434.</li>
 	<li>Clark J, Marriott R, Custer S, Adams E, Bonnand S, Miller T, <strong>Young S</strong>, Hendrikx J. 2012. <a href="http://arc.lib.montana.edu/snow-science/item/1651">A Searchable Digital Archive of ISSW Proceedings is Available Online!</a> In: Proceedings, 2012 International Snow Science Workshop; Anchorage, AK. p. 807–813.</li>
-</ul>
+</ul><br>
 
 ### White Papers, Manuals, and Reports
 <ul>
@@ -165,7 +164,7 @@ Montana State University
 	<li><strong>Young SWH</strong>, Regan MT, Frank J, Hansen MA, Swedman D. 2018. <a href="/assets/pdf/montana_state_university_library_learning_spaces_task_force_report_final.pdf">Learning Spaces Task Force Report</a>. Montana State University Library.</li>
 	<li><strong>Young SWH</strong>, McKelvey H. 2018. <a href="/assets/pdf/montana_state_university_library_search_ux_report_2018.pdf">Web Search UX Report</a>. Montana State University Library.</li>
 	<li><strong>Young SWH</strong>. 2017. <a href="/assets/pdf/montana_state_university_library_usability_report_2017.pdf">Web Usability Report</a>. Montana State University Library.</li>
-</ul>
+</ul><br>
 
 ### Datasets 
 <ul>
