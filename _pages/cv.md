@@ -16,6 +16,16 @@ Write *[scott.young6 at montana.edu](mailto:scott.young6@montana.edu)*
 
 ---
 
+## Research and Practice Areas
+<ul>
+  <li>Library Assessment</li>
+  <li>User Experience (UX) </li>
+  <li>Participatory Design</li>
+  <li>Privacy and Ethics</li>
+</ul>
+
+---
+
 ## Academic Appointments
 Montana State University
 <ul>
