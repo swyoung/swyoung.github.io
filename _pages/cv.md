@@ -520,8 +520,10 @@ Montana State University
 
 <br>
 
- <a href="#top">Back to top</a>
+Last updated: March 31, 2025
+
+---
 
 <br>
 
-Last updated: March 31, 2025
+ <a href="#top">Back to top</a>
