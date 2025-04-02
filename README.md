@@ -1,6 +1,6 @@
 # Jekyll Academic
 
-This is a professional website using a forked version of [Jekyll Academic](https://jekyll-academic.netlify.app), a lightweight theme that offers many features.
+This is a professional website using a forked version of [Jekyll Academic](https://jekyll-academic.netlify.app).
 
 ## License
 
