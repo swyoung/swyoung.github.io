@@ -5,7 +5,7 @@ author:
   name: Scott W. H. Young 
   email: # contact email
 
-description: Hi. I’m Scott, a librarian and associate professor at Montana State University. My work focuses on library user experience, values-based assessment, participatory design, privacy, and ethics. # description of your site
+description: Hi. I’m Scott, a librarian and associate professor. My work focuses on library UX, assessment, participatory design, privacy, and ethics. # description of your site
 
 url: "https://www.scottwhyoung.com" # The base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # The subpath of your site, e.g. /blog
