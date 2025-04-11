@@ -1,0 +1,262 @@
+@font-face {
+  font-family: "AkkuratRegular";
+  src: url(../fonts/AkkuratRegular.otf);
+}
+html {
+  position: relative;
+  min-height: 100%;
+  zoom: 110%;
+}
+
+body {
+  background: linear-gradient(180deg, hsla(223, 93%, 84%, 0.95), hsla(251, 85%, 93%, 0.95), hsla(293, 100%, 92%, 0.95), hsla(303, 100%, 90%, 0.95));
+  color: #000000;
+  font-family: AkkuratRegular, Verdana, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 16px;
+  margin-bottom: 40px;
+}
+
+main {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 54rem;
+  margin: 2rem 0;
+  padding: 1rem;
+}
+
+section {
+  flex-basis: 0;
+  flex-grow: 999;
+  min-width: 70%;
+  display: flex;
+  flex-direction: column;
+}
+section h1 {
+  font-size: 150%;
+}
+section h2 {
+  font-size: 125%;
+  text-decoration: underline;
+}
+section h3 {
+  font-size: 115%;
+}
+section h4 {
+  font-size: 110%;
+}
+section h5 {
+  font-size: 100%;
+}
+section a {
+  color: #000000;
+  text-decoration: none;
+  border-bottom: 1px dashed;
+}
+section a:hover {
+  color: #000000;
+  border-bottom: 1px dashed;
+  background-color: hsl(223, 100%, 96%);
+}
+section p {
+  line-height: 2;
+}
+section li:not(:last-child) {
+  margin-bottom: 1em;
+}
+
+header, section {
+  padding: 1rem;
+}
+
+header {
+  flex-grow: 1;
+  flex-basis: 10rem;
+  position: relative;
+}
+
+header ul {
+  list-style: none;
+}
+header a {
+  color: #000000;
+  text-decoration: none;
+}
+header li {
+  margin-bottom: 0.2rem;
+  text-align: right;
+  margin-right: 2rem;
+}
+header a:hover {
+  color: #000000;
+  background-color: hsl(223, 100%, 96%);
+}
+
+footer a {
+  color: #000000;
+  text-decoration: none;
+}
+footer a:hover {
+  color: #000000;
+  background-color: hsl(223, 100%, 96%);
+}
+
+nav ul {
+  border-right: 1px solid hsl(223, 100%, 96%);
+}
+
+.posts ul {
+  list-style: none;
+}
+.posts li {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0.5rem;
+}
+.posts li a {
+  white-space: nowrap;
+  overflow: hidden;
+  text-decoration: none;
+  text-overflow: ellipsis;
+}
+.posts li time {
+  padding-left: 1rem;
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+}
+
+.posts h1 {
+  margin: 1rem 0;
+  font-size: 150%;
+}
+.posts h2 {
+  margin: 1rem 0;
+  font-size: 130%;
+}
+.posts h3 {
+  margin: 1rem 0;
+  font-size: 120%;
+}
+.posts h4 {
+  margin: 1rem 0;
+  font-size: 110%;
+}
+.posts h5 {
+  margin: 1rem 0;
+  font-size: 100%;
+}
+
+h1, h2, h3, h4, h5 {
+  line-height: 1;
+  margin: 1rem 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  border-bottom: 1px gray dashed;
+}
+
+.stickyfooter {
+  position: absolute;
+  bottom: 0;
+  height: 40px;
+  width: 100%;
+}
+
+code {
+  font-size: 100%;
+}
+
+pre {
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px #eee;
+}
+pre code {
+  border-radius: 5px;
+  font-size: 125%;
+}
+
+blockquote {
+  border-left: 0.25em solid hsl(223, 100%, 96%);
+  padding: 0 1em;
+}
+
+.rss {
+  text-decoration: none;
+  color: #000000;
+}
+
+.rss:hover {
+  border-bottom: none;
+  color: #333;
+}
+
+.card {
+  background-color: hsl(223, 100%, 96%);
+  border: none;
+}
+
+.emoji-spin {
+  animation-name: rotateEmoji;
+  display: inline-block;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+
+@keyframes rotateEmoji {
+  0% {
+    transform: rotateY(0);
+  }
+  100% {
+    transform: rotateY(360deg);
+  }
+}
+table tr th {
+  background: #eeeee1;
+  color: #333;
+  padding: 0;
+  border: #aaa solid 1px;
+  text-align: center;
+  font-weight: bold;
+}
+
+table tr td {
+  border: 1px #ccc solid;
+  padding: 5px;
+}
+
+table tr td.rightright {
+  background: #eeeee1;
+}
+
+table tr td h4 {
+  margin: 0;
+  padding: 0;
+  font-weight: normal;
+}
+
+@media screen and (max-width: 45rem) {
+  header li {
+    display: inline;
+    margin-right: 1rem;
+    font-size: 110%;
+  }
+  header ul {
+    border-bottom: 1px solid #eee;
+    padding-bottom: 2rem;
+  }
+  nav ul {
+    border-right: 0px;
+  }
+  footer {
+    margin-bottom: 1rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+  }
+}
+
+/*# sourceMappingURL=main.css.map */

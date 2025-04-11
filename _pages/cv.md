@@ -67,7 +67,7 @@ Montana State University
 #### 2024
 <ul>
 	<li>Mannheimer S, Clark JA, <strong>Young SWH</strong>, Sheehey B, Bond N, Rossmann D, Kettler HS, Shorish Y. <a href="https://doi.org/10.1109/BigData62323.2024.10825205">An Ethical Reflection Aid for Responsible AI in Computational Archival Science</a>. In: Proceedings of the 2024 IEEE Big Data Conference, 9th Computational Archival Science Workshop. December 17, 2024. Washington, DC.</li>
-	<li>Mannheimer S, Bond N, <strong>Young SWH</strong>, Kettler HS, Marcus A, Slipher S, Clark JA, Rossmann D, Sheehey B, Shorish Y. 2024. <a href="https://doi.org/10.5860/ital.v43i3.17245">Responsible AI practice in libraries and archives: A review of the literature</a>. <em>Information Technology and Libraries</em>. 43(3):1–29</li>
+	<li>Mannheimer S, Bond N, <strong>Young SWH</strong>, Kettler HS, Marcus A, Slipher S, Clark JA, Rossmann D, Sheehey B, Shorish Y. 2024. <a href="https://doi.org/10.5860/ital.v43i3.17245">Responsible AI Practice in Libraries and Archives: A Review of the Literature</a>. <em>Information Technology and Libraries</em>. 43(3):1–29.</li>
 </ul>
 
 #### 2023
@@ -105,7 +105,7 @@ Montana State University
 
 #### 2018
 <ul>
-	<li><strong>Young SWH</strong>, Brownotter C. 2018. <a href="http://dx.doi.org/10.3998/weave.12535642.0001.901">Toward a More Just Library: Participatory Design with Native American Students</a>. Weave: Journal of Library User Experience. 1(9).</li>
+	<li><strong>Young SWH</strong>, Brownotter C. 2018. <a href="https://doi.org/10.3998/weave.12535642.0001.901">Toward a More Just Library: Participatory Design with Native American Students</a>. Weave: Journal of Library User Experience. 1(9).</li>
 	<li>OBrien P, <strong>Young SWH</strong>, Arlitsch K, Benedict K. 2018. <a href="https://doi.org/10.1108/OIR-02-2018-0056">Protecting Privacy on the Web: A Study of HTTPS and Google Analytics Implementation in Academic Library Websites</a>. Online Information Review. 42(6):734-751.</li>
 	<li><strong>Young, SWH</strong>. 2018. <a href="https://desfordiv.library.northeastern.edu/participation-design-empathy-justice-the-user-experience-with-underrepresented-populations-uxup-project/">Participation, Design, Empathy, Justice: The User Experience with Underrepresented Populations (UXUP) Project</a>. In: The Design for Diversity Learning Toolkit. Boston, MA: Northeastern University Libraries.</li>
 	<li><strong>Young SWH</strong>, Mannheimer S, Rossmann D, Swedman D, Shanks J. 2018. <a href="https://doi.org/10.7191/jeslib.2018.1134">Assessing and Improving Library Technology with Service Blueprinting</a>. Journal of eScience Librarianship. 7(2).</li>
@@ -118,7 +118,7 @@ Montana State University
 
 #### 2016
 <ul>
-	<li><strong>Young SWH</strong>. 2016. <a href="http://dx.doi.org/10.3998/weave.12535642.0001.401">Speed Matters: Performance Improvements for Library Websites</a>. Weave: Journal of Library User Experience. 1(4).</li>
+	<li><strong>Young SWH</strong>. 2016. <a href="https://doi.org/10.3998/weave.12535642.0001.401">Speed Matters: Performance Improvements for Library Websites</a>. Weave: Journal of Library User Experience. 1(4).</li>
 	<li>Mannheimer S, <strong>Young SWH</strong>, Rossmann D. 2016. <a href="https://bdes.datasociety.net/council-output/improving-services-at-what-cost-examining-the-ethics-of-twitter-research-at-the-montana-state-university-library/">Improving Services—At What Cost? Examining the Ethics of Twitter Research at the Montana State University Library</a>. The Council for Big Data, Ethics, and Society.</li>
 	<li>Mannheimer S, <strong>Young SWH</strong>, Rossmann D. 2016. <a href="https://doi.org/10.1108/JICES-05-2015-0013">On the Ethics of Social Network Research in Libraries</a>. Journal of Communication, Information, and Ethics in Society. 14(2):139–151. <a href="http://scholarworks.montana.edu/xmlui/handle/1/9470">[Free full text available]</a></li>
 </ul>
@@ -126,13 +126,13 @@ Montana State University
 #### 2015
 <ul>
 	<li>Clark JA, <strong>Young SWH</strong>. 2015. <a href="http://journal.code4lib.org/articles/10668">Building a Better Book in the Browser (Using Semantic Web technologies and HTML5)</a>. Code4Lib Journal. 29.</li>
-	<li>Rossmann D, <strong>Young SWH</strong>. 2015. <a href="http://dx.doi.org/10.1108/LHT-05-2015-0053">Social Media Optimization: Making Library Content Shareable and Engaging</a>. Library Hi Tech. 33(4). <a href="http://scholarworks.montana.edu/xmlui/handle/1/9606">[Free full text available]</a></li>
+	<li>Rossmann D, <strong>Young SWH</strong>. 2015. <a href="https://doi.org/10.1108/LHT-05-2015-0053">Social Media Optimization: Making Library Content Shareable and Engaging</a>. Library Hi Tech. 33(4). <a href="http://scholarworks.montana.edu/xmlui/handle/1/9606">[Free full text available]</a></li>
 	<li><strong>Young SWH</strong>, Rossmann D. 2015. <a href="https://doi.org/10.6017/ital.v34i1.5625">Building Library Community Through Social Media</a>. Information Technology and Libraries. 34(1):20–37.</li>
 </ul>
 
 #### 2014
 <ul>
-	<li><strong>Young SWH</strong>. 2014. <a href="http://dx.doi.org/10.3998/weave.12535642.0001.101">Improving Library User Experience with A/B Testing: Principles and Process</a>. Weave: Journal of Library User Experience. 1(1).</li>
+	<li><strong>Young SWH</strong>. 2014. <a href="https://doi.org/10.3998/weave.12535642.0001.101">Improving Library User Experience with A/B Testing: Principles and Process</a>. Weave: Journal of Library User Experience. 1(1).</li>
 </ul>
 
 #### 2012
@@ -518,7 +518,7 @@ Montana State University
 
 <br>
 
-Last updated: March 31, 2025
+Last updated: April 11, 2025
 
 ---
 
