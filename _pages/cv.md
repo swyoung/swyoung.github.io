@@ -67,7 +67,7 @@ Montana State University
 #### 2024
 <ul>
 	<li>Mannheimer S, Clark JA, <strong>Young SWH</strong>, Sheehey B, Bond N, Rossmann D, Kettler HS, Shorish Y. <a href="https://doi.org/10.1109/BigData62323.2024.10825205">An Ethical Reflection Aid for Responsible AI in Computational Archival Science</a>. In: Proceedings of the 2024 IEEE Big Data Conference, 9th Computational Archival Science Workshop. December 17, 2024. Washington, DC.</li>
-	<li>Mannheimer S, Bond N, <strong>Young SWH</strong>, Kettler HS, Marcus A, Slipher S, Clark JA, Rossmann D, Sheehey B, Shorish Y. 2024. <a href="https://doi.org/10.5860/ital.v43i3.17245">Responsible AI Practice in Libraries and Archives: A Review of the Literature</a>. <em>Information Technology and Libraries</em>. 43(3):1–29.</li>
+	<li>Mannheimer S, Bond N, <strong>Young SWH</strong>, Kettler HS, Marcus A, Slipher S, Clark JA, Rossmann D, Sheehey B, Shorish Y. 2024. <a href="https://doi.org/10.5860/ital.v43i3.17245">Responsible AI Practice in Libraries and Archives: A Review of the Literature</a>. Information Technology and Libraries. 43(3):1–29.</li>
 </ul>
 
 #### 2023
