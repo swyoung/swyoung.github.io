@@ -8,9 +8,9 @@ description: Professional bio for Scott W. H. Young, UX & Assessment Librarian a
 
 ![profile image](../assets/img/profile_circle_small.png)
 
-I’m a [User Experience & Assessment Librarian and associate professor](https://www.lib.montana.edu/directory/1524782/scott-w.-h.-young) at [Montana State University](https://www.montana.edu). As a researcher-practitioner, I develop theory and practice in the field of library user experience (UX). My work focuses on values-based assessment, participatory design, privacy, and ethics.
+I’m a [User Experience & Assessment Librarian and associate professor](https://www.lib.montana.edu/directory/1524782/scott-w.-h.-young) at [Montana State University](https://www.montana.edu). As a researcher-practitioner, I develop theory and practice in the field of library user experience (UX). 
 
-I [publish](/cv#publications) and [present](/cv#presentations) widely on topics related to library UX, assessment, and technology.
+I [publish](/cv#publications) and [present](/cv#presentations) widely on library UX, assessment, participatory design, privacy, and ethics.
 
 >Select publications:
 - <em><a href="https://litwinbooks.com/books/knowing-our-value-and-our-values/">Knowing our Value and our Values: Toward An Ethical Practice of Library Assessment</a></em>. Library Juice Press.
