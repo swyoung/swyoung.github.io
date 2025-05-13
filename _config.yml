@@ -7,7 +7,7 @@ author:
 
 description: Hi. I’m Scott, a librarian and associate professor. My work focuses on library UX, assessment, participatory design, privacy, and ethics. # description of your site
 
-url: "https://www.scottwhyoung.com" # The base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.scottwhyoung.info" # The base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # The subpath of your site, e.g. /blog
 
 jekyllacademic:
