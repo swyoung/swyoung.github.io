@@ -449,6 +449,11 @@ Montana State University
 </ul>
 
 ### Service to the Library
+##### Present
+<ul>
+   <li>Library Web Committee (Chair). 2023–Present.</li>
+</ul>
+##### Past
 <ul>
   <li>Application Development Working Group. July 2015–July 2018.</li>
   <li>Content Design Group (Chair). September 2016–March 2018.</li>
@@ -461,7 +466,7 @@ Montana State University
   <li>Library Experience Group (Chair). September 2015–March 2018.</li>
   <li>Library Faculty Advisory Council. 2021–2022.</li>
   <li>Library Review Committee. 2021–2022.</li>
-  <li>Library Web Committee. 2023–Present.</li>
+
   <li>Intranet Working Group (Chair). April 2014–April 2015.</li>
   <li>Public Services Group. January 2012–March 2014; September 2014–August 2015.</li>
   <li>Scholarly Communication Group. June 2012–July 2015.</li>
