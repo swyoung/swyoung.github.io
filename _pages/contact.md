@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Scott W. H. Young - Contact
-description: Contact information for Scott W. H. Young, UX & Assessment Librarian at Montana State University.
+description: Contact information for Scott W. H. Young, UX Librarian at Montana State University.
 ---
 
 # Contact
