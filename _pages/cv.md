@@ -32,9 +32,9 @@ Download <a href="/assets/pdf/scott_w_h_young_cv.pdf">CV as a PDF <i class="fa-s
 ## Academic Appointments
 Montana State University
 <ul>
-  <li>Associate Professor. UX & Assessment Librarian. 2019–Present.</li>
-  <li>Assistant Professor. UX & Assessment Librarian. 2018–2019.</li>
-  <li>Assistant Professor. Digital Initiatives Librarian. 2013–2018.</li>
+  <li>Professor. UX Librarian. 2025–Present.</li>
+  <li>Associate Professor. UX & Assessment Librarian. 2019–2025.</li>
+  <li>Assistant Professor. Digital Initiatives Librarian. 2013–2019.</li>
   <li>Instructor. Digital Initiatives Librarian. 2012–2013.</li>
 </ul>
 
