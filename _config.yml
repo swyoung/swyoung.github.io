@@ -5,13 +5,13 @@ author:
   name: Scott W. H. Young 
   email: # contact email
 
-description: Hi. I’m Scott, a librarian and associate professor. My work focuses on library UX, assessment, participatory design, privacy, and ethics. # description of your site
+description: Hi. I’m Scott, a librarian and professor. My work focuses on library UX, assessment, participatory design, privacy, and ethics. # description of your site
 
 url: "https://www.scottwhyoung.info" # The base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # The subpath of your site, e.g. /blog
 
 jekyllacademic:
-  homepage_title: "User Experience & Assessment Librarian" # Your homepage title
+  homepage_title: "User Experience Librarian" # Your homepage title
   disqusname: # Your disqus sitename
   footer: Site content licensed CC BY #
   contentlicense: "CC BY 4.0" # Choose either one of these to put: MIT, Commons Clause, CC BY 4.0, CC BY-NC 4.0, CC BY-ND 4.0, CC BY-NC-ND 4.0, CC BY-NC-SA 4.0, CC BY-NC-SA 4.0, CC BY-SA 4.0
