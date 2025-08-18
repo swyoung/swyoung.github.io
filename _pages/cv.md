@@ -202,8 +202,10 @@ Montana State University
 
 #### 2025
 <ul>
+	<li>“Values-driven AI in Libraries and Archives: Introducing the Viewfinder Toolkit,” co-authored with Sara Mannheimer, Jason A. Clark, Yasmeen Shorish, Hannah Scates Kettler, Bonnie Sheehey, Doralyn Rossmann, and Natalie Bond and co-presented with Sara Mannheimer, Jason A. Clark, Yasmeen Shorish, and Hannah Scates Kettler. Digital Library Federation (DLF) Forum. Denver, CO. August 2025.*</li>
 	<li>“Trusting the Process: Tools and Techniques for Participatory Design in Libraries.” User Experience in Libraries (UXLibs). Liverpool, UK. June 2025.†</li>
-	<li>“Large-Scale Research, Data Sovereignty, Ethics and AI.” Roundtable discussion co-moderated with Kristen Intemann, Nick Lux, and Sara Mannheimer. Symposia on Large-Scale Research: The Future of Research in the Age of AI. Bozeman, MT. March 28, 2025.</li>
+	<li>“Viewfinder: A Toolkit for Values-driven AI in Libraries & Archives,” co-authored with Sara Mannheimer, Jason A. Clark, Yasmeen Shorish, Hannah Scates Kettler, Bonnie Sheehey, Doralyn Rossmann, and Natalie Bond and co-presented with Sara Mannheimer and Bonnie Sheehey. Tribal College Librarians Institute. Bozeman, MT. June 2025.</li>
+	<li>“Large-Scale Research, Data Sovereignty, Ethics and AI.” Roundtable discussion co-moderated with Kristen Intemann, Nick Lux, and Sara Mannheimer. Symposia on Large-Scale Research: The Future of Research in the Age of AI. Bozeman, MT. March 28, 2025.†</li>
 	<li>“Implementing Co-Design: Tools and Methods.” Presentation for <em>Community Co-Design: How to Collaborate with Your Community to Build Programs and Services</em>, an online course hosted by Library Journal. March 11, 2025.†</li>
 	<li>“Trust the Process: Tools and Techniques for Library Co-Design.” Workshop presented to the Catalyst Leadership Development of the California Libraries Learn (CALL) Academy. March 4, 2025.†</li>
 	<li>“An Ethical Reflection Aid for Implementing AI in Libraries and Archives,” co-authored and co-presented with Sara Mannheimer. Network of the National Library of Medicine (NNLM), Health Bytes with Region 3 Webinar Series. February 2025.†</li>
@@ -396,7 +398,7 @@ Montana State University
 
 #### Peer Review
 <ul>
-  <li>External reviewer. Promotion and Tenure packet. 2025.</li>
+  <li>External reviewer. Promotion and Tenure packets. Mutliple. 2025.</li>
   <li>External reviewer. Promotion and Tenure packet. 2024.</li>
   <li>External reviewer. Promotion and Tenure packets. Multiple. 2023.</li>
   <li>Expert reviewer for User Privacy. <a href="https://reuse.diglib.org/project-team/consultants-experts/">Digital Content Reuse Assessment Framework Toolkit (D-CRAFT)</a>. 2022.</li>
@@ -529,7 +531,7 @@ Montana State University
 
 <br>
 
-Last updated: July 19, 2025
+Last updated: August 17, 2025
 
 ---
 
