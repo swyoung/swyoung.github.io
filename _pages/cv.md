@@ -438,7 +438,8 @@ Montana State University
 ##### Present
 <ul>
   <li>Center for Science, Technology, Ethics and Society - Faculty Advisory Board. 2019–Present.</li>
-  <li>Curriculum & Programs Committee, 2025–2027</li>
+  <li>Curriculum & Programs Committee, 2025–2027.</li>
+  <li>University Retention, Tenure, and Promotion Committee, 2025–2026.</li>
 </ul>
 ##### Past
 <ul>
@@ -532,7 +533,7 @@ Montana State University
 
 <br>
 
-Last updated: August 17, 2025
+Last updated: August 29, 2025
 
 ---
 
