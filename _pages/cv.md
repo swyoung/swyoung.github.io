@@ -456,6 +456,7 @@ Montana State University
 ##### Present
 <ul>
    <li>Library Web Committee (Chair). 2023–Present.</li>
+   <li>Library Curriculum Committee. 2025–2027.</li>
 </ul>
 ##### Past
 <ul>
@@ -533,7 +534,7 @@ Montana State University
 
 <br>
 
-Last updated: August 29, 2025
+Last updated: September 7, 2025
 
 ---
 
