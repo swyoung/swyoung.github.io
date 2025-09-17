@@ -93,6 +93,7 @@ header {
 header {
   ul {
     list-style: none;
+	padding:0;  
   }
 
   a {
@@ -109,6 +110,10 @@ header {
   a:hover {
     color: $bodyColor;
     background-color: hsla(223,100%,96%,60);
+  }
+	
+   li:first-child { 
+   font-weight:bold;  
   }
 }
 
