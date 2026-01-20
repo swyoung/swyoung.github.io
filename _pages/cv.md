@@ -521,6 +521,14 @@ Montana State University
 
 <br>
 
+## Professional Memberships
+<ul>
+  <li>American Association of University Professors.</li>
+  <li>Progressive Librarians Guild.</li>
+</ul>
+
+<br>
+
 ## Awards and Recognition
 <ul>
   <li>Author of the Month, Journal of eScience Librarianship. January 2022.</li>
@@ -534,7 +542,7 @@ Montana State University
 
 <br>
 
-Last updated: September 7, 2025
+Last updated: January 20, 2026
 
 ---
 
