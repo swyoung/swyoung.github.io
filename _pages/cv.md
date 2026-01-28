@@ -62,7 +62,7 @@ Montana State University
 ### Articles and Book Chapters - Peer Reviewed
 #### 2025
 <ul>
-<li><strong>Young SWH</strong>. 2025. The Values-Sensitive Library Assessment Toolkit: A Decision Aid for Ethical Practice. In: Tureen A, Koziura A, editors. <em>Making Values-Based Decisions in the Academic Library</em>. ACRL. (Accepted, forthcoming)</li>
+<li><strong>Young SWH</strong>. 2025. <a href="https://scholarworks.montana.edu/server/api/core/bitstreams/4d610729-39e1-45a0-b952-a7a1f0c4e303/content">The Values-Sensitive Library Assessment Toolkit: A Decision Aid for Ethical Practice</a>. In: Tureen A, Koziura A, editors. <em>Making Values-Based Decisions in the Academic Library</em>. ACRL. 15–35.</li>
 </ul>
 
 #### 2024
@@ -542,7 +542,7 @@ Montana State University
 
 <br>
 
-Last updated: January 20, 2026
+Last updated: January 28, 2026
 
 ---
 
