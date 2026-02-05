@@ -201,6 +201,11 @@ Montana State University
 ## Presentations
 (*Peer-reviewed, †Invited)
 
+#### 2026
+<ul>
+	<li>“Viewfinder: A Toolkit for Values-driven AI,” co-authored with Sara Mannheimer, Jason A. Clark, Yasmeen Shorish, Hannah Scates Kettler, Bonnie Sheehey, Doralyn Rossmann, and Natalie Bond and co-presented with Sara Mannheimer. EDUCAUSE Data Governance Community Group. Online. February 2026.†</li>
+</ul>
+	
 #### 2025
 <ul>
 	<li>“Values-driven AI in Libraries and Archives: Introducing the Viewfinder Toolkit,” co-authored with Sara Mannheimer, Jason A. Clark, Yasmeen Shorish, Hannah Scates Kettler, Bonnie Sheehey, Doralyn Rossmann, and Natalie Bond and co-presented with Sara Mannheimer, Jason A. Clark, Yasmeen Shorish, and Hannah Scates Kettler. Digital Library Federation (DLF) Forum. Denver, CO. August 2025.*</li>
@@ -542,7 +547,7 @@ Montana State University
 
 <br>
 
-Last updated: January 28, 2026
+Last updated: February 5, 2026
 
 ---
 
