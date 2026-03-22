@@ -12,7 +12,7 @@ Hi. I’m Scott, a user experience librarian. <span class="emoji-spin">🌸</spa
 
 ___
 
-<span style="font-size:75%">For fun, use your cursor to move these emojis around the page (multiple visitors can move emojis together in real time).</span>
+<span style="font-size:75%">For fun, move these emojis around the page using your cursor or by tapping and holding (multiple visitors can move emojis together in real time).</span>
 <div id="unicorn" can-move style="font-size:40px">🦄</div>
 <div id="seedling" can-move style="font-size:40px">🌱</div>
 <div id="tulip" can-move style="font-size:40px">🌷</div>
