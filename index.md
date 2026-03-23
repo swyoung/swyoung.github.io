@@ -12,7 +12,7 @@ Hi. I’m Scott, a user experience librarian. <span class="emoji-spin">🌸</spa
   <div id="skate" can-move style="font-size:40px">🛼</div>
   <div id="slide" can-move style="font-size:40px">🛝</div>
   <div id="bubbles" can-move style="font-size:40px">🫧</div>
-  <div can-duplicate="bubbles"></div>
+  <div can-duplicate="bubbles" style="border-top, border-bottom, border-left: 1px dashed hsla(223, 100%, 96%, 80); padding: .25em;font-size:65%">Tap or click here to create more bubbles</div>
 <div style="border-top:2px solid hsla(223,100%,96%,80);margin:1em;width:46%;position:relative;left:30%;bottom:50%">
 <span style="font-size:75%">The emojis on this page can be moved around with your cursor or by tapping and dragging (multiple visitors can move emojis together in real time).</span>
 </div>
