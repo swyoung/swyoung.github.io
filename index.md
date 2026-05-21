@@ -15,6 +15,6 @@ Hi. I’m Scott, a user experience librarian. <span class="emoji-spin">🌸</spa
   <div id="bubbles" can-move aria-label="drag the bubbles" style="font-size:40px">🫧</div>
  </div> 
  <!-- <div can-duplicate="bubbles" style="position:absolute; padding: .25em;font-size: 75%;background: linear-gradient(180deg, rgba(176, 198, 252, 0.95), rgba(228, 222, 252, 0.95), rgba(250, 214, 255, 0.95));height: 200px;width: 100px;">More bubbles</div> -->
-<div style="border-top:2px solid hsla(223,100%,96%,80);margin:1em;width:40%;position:relative;left:35%;bottom:50%">
+<div style="border-top:2px solid hsla(223,100%,96%,80);margin:1em;width:30%;position:relative;left:35%;bottom:50%">
 <span style="font-size:75%">This area has movable emojis. Scroll around here to find them.</span>
 </div>
