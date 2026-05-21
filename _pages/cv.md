@@ -5,6 +5,9 @@ description: Curriculum Vita (CV) for Scott W. H. Young, UX Librarian at Montana
 ---
 
 # Curriculum Vita
+
+<br>
+
 ---
 **Scott W. H. Young**, PhD, MLIS\
 User Experience Librarian
