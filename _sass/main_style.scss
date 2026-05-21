@@ -243,6 +243,20 @@ blockquote {
    border:none;
 }
 
+.emoji-zone {
+position: relative;
+width: 100%;
+max-width: 640px;
+height: 236px;
+margin: 0 auto;
+border: 1.5px solid var(--ph-ink);
+border-radius: 8px;
+background: color-mix(in srgb,var(--ph-paper) 88%,var(--ph-sage-wash));
+box-shadow: inset 0 0 0 2px #ffffff59;
+overflow: hidden;
+}
+
+
 .emoji-spin {
 animation-name: rotateEmoji;
 display:inline-block;
