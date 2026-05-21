@@ -206,7 +206,7 @@ Montana State University
 
 <ul>
 	<li>“A Values-Driven Game for Teaching AI Ethics in the Statistics Classroom,” co-authored and co-presented with Sara Mannheimer, Bonnie Sheehey, and Stacy Hancock. <em>Electronic Conference on Teaching Statistics (eCOTS)</em>. Online. June 2026.*</li>
-	<li>“Roundtable on Peer Review: Challenges and Solutions for Janeway-Hosted Journals.” <em>The Lower Decks 2.0: A Symposium on Janeway and Open Access Publishing</em>. Dublin City University. Dublin, Ireland. May 21–22, 2026.*</li>
+	<li>“Roundtable on Peer Review: Challenges and Solutions for Janeway-Hosted Journals and Beyond.” <em>The Lower Decks 2.0: A Symposium on Janeway and Open Access Publishing</em>. Dublin City University. Dublin, Ireland. May 21–22, 2026.*</li>
 	<li>“Responsible AI in Real Life: The Viewfinder Toolkit for Values-Driven AI in Libraries and Archives,” co-authored and co-presented with Sara Mannheimer. Webinar hosted by ALA CORE Forum. May 2026.†</li>
 	<li>“The Viewfinder Toolkit: A values-informed approach for library AI practice,” co-authored and co-presented with Sara Mannheimer. <em>Confidence, Competence and Context: Building collaborative approaches to AI literacy in learning, education and research.</em> University of Liverpool Libraries, Museums and Galleries. Online. April 2026.*</li>
 	<li>“Centering Patron and Employee Experience Through User Research.” Presentation for <em>Making Your Library Space Work for Every Body</em>, an online course hosted by Library Journal. April 2024.†</li>
