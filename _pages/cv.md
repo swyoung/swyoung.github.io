@@ -9,10 +9,13 @@ description: Curriculum Vita (CV) for Scott W. H. Young, UX Librarian at Montana
 **Scott W. H. Young**, PhD, MLIS\
 User Experience Librarian
 
-*Visit* [www.scottwhyoung.info](https://www.scottwhyoung.info)\
-*Write* [scott.young6 at montana.edu](mailto:scott.young6@montana.edu)   
+---
 
-Download <a href="/assets/pdf/scott_w_h_young_cv.pdf">CV as a PDF <i class="fa-solid fa-file-pdf"></i></a>
+ <ul style="list-style-type: none;">
+	 <li>*Website* [www.scottwhyoung.info](https://www.scottwhyoung.info)</li>
+	 <li>*Email* [scott.young6 at montana.edu](mailto:scott.young6@montana.edu) </li>
+	 <li>Download <a href="/assets/pdf/scott_w_h_young_cv.pdf">CV as a PDF <i class="fa-solid fa-file-pdf"></i></a></li>
+ </ul>
 
 ---
 
