@@ -18,3 +18,9 @@ Hi. I’m Scott, a user experience librarian. <span class="emoji-spin">🌸</spa
 <div style="border-top:2px solid hsla(223,100%,96%,80);margin:1em;width:30%;position:relative;left:35%;bottom:50%">
 <span style="font-size:75%">This area has movable emojis. Scroll around here to find them.</span>
 </div>
+<script type="text/javascript">
+$('.can-move').can-move({
+axis: 'y',
+containment: 'parent'
+});
+</script>
