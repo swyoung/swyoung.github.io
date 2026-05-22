@@ -21,7 +21,7 @@ Hi. I’m Scott, a user experience librarian. <span class="emoji-spin">🌸</spa
 <span style="font-size:75%">This area has movable emojis. Scroll around here to find them.</span>
 </div>
 <script type="text/javascript">
-$('.emoji-container').can-move({
+$('.emoji-zone').can-move({
 axis: 'y',
 containment: 'parent'
 });
