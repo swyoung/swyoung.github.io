@@ -205,6 +205,7 @@ Montana State University
 #### 2026
 
 <ul>
+	<li>“Responsible AI in Practice: The Viewfinder Toolkit for Values-Driven AI in Libraries and Archives,” co-authored and co-presented with Sara Mannheimer. Summer Webinar Series on AI and Machine Learning, hosted by the Texas Digital Library. June 2026.†</li>
 	<li>“A Values-Driven Game for Teaching AI Ethics in the Statistics Classroom,” co-authored and co-presented with Sara Mannheimer, Bonnie Sheehey, and Stacy Hancock. <em>Electronic Conference on Teaching Statistics (eCOTS)</em>. Online. June 2026.*</li>
 	<li>“Roundtable on Peer Review: Challenges and Solutions for Janeway-Hosted Journals and Beyond.” <em>The Lower Decks 2.0: A Symposium on Janeway and Open Access Publishing</em>. Dublin City University. Dublin, Ireland. May 21–22, 2026.*</li>
 	<li>“Responsible AI in Real Life: The Viewfinder Toolkit for Values-Driven AI in Libraries and Archives,” co-authored and co-presented with Sara Mannheimer. Webinar hosted by ALA CORE Forum. May 2026.†</li>
@@ -554,7 +555,7 @@ Montana State University
 
 <br>
 
-Last updated: May 21, 2026
+Last updated: June 23, 2026
 
 ---
 
