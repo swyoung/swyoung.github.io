@@ -12,7 +12,7 @@ Hi. I’m Scott, a user experience librarian. <span class="emoji-spin">🌸</spa
 <div id="cd" can-spin aria-label="spin the cd" style="font-size:40px">💿</div>
 <div id="skate" can-spin aria-label="spin the skate" style="font-size:40px">🛼</div>
 <div id="slide" can-spin aria-label="spin the slide" style="font-size:40px">🛝</div>
-<div id="bubbles" can-grow aria-label="grow the bubbles" style="font-size:40px">🫧</div>
+<div id="bubbles" can-spin aria-label="spin the bubbles" style="font-size:40px">🫧</div>
  </div> 
 <div style="border-top:2px solid hsla(223,100%,96%,80);margin:1em;width:10.5%;position:relative;left:35%;bottom:50%">
 <span style="font-size:75%">Emoji Zone</span>
