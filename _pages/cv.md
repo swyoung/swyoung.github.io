@@ -414,7 +414,8 @@ Montana State University
 
 #### Peer Review
 <ul>
-  <li>External reviewer. Promotion and Tenure packets. Mutliple. 2025.</li>
+  <li>External reviewer. Promotion and Tenure packets. Multiple 2026.</li>
+  <li>External reviewer. Promotion and Tenure packets. Multiple 2025.</li>
   <li>External reviewer. Promotion and Tenure packet. 2024.</li>
   <li>External reviewer. Promotion and Tenure packets. Multiple. 2023.</li>
   <li>Expert reviewer for User Privacy. <a href="https://reuse.diglib.org/project-team/consultants-experts/">Digital Content Reuse Assessment Framework Toolkit (D-CRAFT)</a>. 2022.</li>
