@@ -205,6 +205,7 @@ Montana State University
 #### 2026
 
 <ul>
+	<li>“Viewfinder: A Toolkit for Values-Driven AI in Libraries and Archives,” with Sara Mannheimer. Montana Library Association Fall Retreat at Chico Hot Springs. October 2026.†</li>
 	<li>“Viewfinder: An Ethical Reflection Aid for Responsible AI,” with Sara Mannheimer. Presented to Data & Society's AI Civics Community of Practice. September 2026.†</li>
 	<li>“Responsible AI in Practice: The Viewfinder Toolkit for Values-Driven AI in Libraries and Archives,” co-authored and co-presented with Sara Mannheimer. Summer Webinar Series on AI and Machine Learning, hosted by the Texas Digital Library. June 2026.†</li>
 	<li>“A Values-Driven Game for Teaching AI Ethics in the Statistics Classroom,” co-authored and co-presented with Sara Mannheimer, Bonnie Sheehey, and Stacy Hancock. <em>Electronic Conference on Teaching Statistics (eCOTS)</em>. Online. June 2026.*</li>
@@ -453,7 +454,6 @@ Montana State University
 <ul>
   <li>Center for Science, Technology, Ethics and Society - Faculty Advisory Board. 2019–Present.</li>
   <li>Curriculum & Programs Committee, 2025–2027.</li>
-  <li>University Retention, Tenure, and Promotion Committee, 2025–2026.</li>
 </ul>
 ##### Past
 <ul>
@@ -463,6 +463,7 @@ Montana State University
   <li>Faculty Affairs. 2013–2016.</li>
   <li>Library Representative to the Office of Disability Services. 2016–2018.</li>
   <li>American Indian Heritage Day. Co-organizer. 2017.</li>
+  <li>University Retention, Tenure, and Promotion Committee, 2025–2026.</li>
   <li>University Web Advisory Council. February 2012–February 2016.</li>
 </ul>
 
@@ -485,13 +486,13 @@ Montana State University
   <li>Library Experience Group (Chair). September 2015–March 2018.</li>
   <li>Library Faculty Advisory Council. 2021–2022.</li>
   <li>Library Review Committee. 2021–2022.</li>
-
   <li>Intranet Working Group (Chair). April 2014–April 2015.</li>
   <li>Public Services Group. January 2012–March 2014; September 2014–August 2015.</li>
   <li>Scholarly Communication Group. June 2012–July 2015.</li>
   <li>Search Committee - Scholarly Communication Librarian. Spring 2013.</li>
   <li>Search Committee - Electronic Resources and Discovery Services Librarian (Chair). October 2016–April 2017.</li>
   <li>Search Committee - Instruction and Accessibility Librarian. August 2019–January 2020.</li>
+  <li>Search Committee - Instruction and Open Strategies Librarian (Chair). May–October 2026.</li>
   <li>Semantic Web Group. February 2013–February 2018.</li>
   <li>Service Design Task Force. 2015.</li>
   <li>Social Media Group. June 2012–June 2018.</li>
@@ -556,7 +557,7 @@ Montana State University
 
 <br>
 
-Last updated: September 18, 2026
+Last updated: October 29, 2026
 
 ---
 
