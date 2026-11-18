@@ -10,7 +10,7 @@ description: About page for Scott W. H. Young, UX Librarian at Montana State Uni
 
 I’m a [User Experience Librarian and professor](https://www.lib.montana.edu/directory/1524782/scott-w.-h.-young) at [Montana State University](https://www.montana.edu).
 
-I conduct user research, coordinate content strategy, and practice service design and participatory design in the library. As a researcher, I examine library UX and technology through a lens of professional ethics and values. I [publish](/cv#publications) and [present](/cv#presentations) on these topics.
+As a practitioner, I work to improve library services through user experience (UX), content strategy, service design, and participatory design.  As a researcher, I examine library UX and information technology through a lens of professional ethics and values. I [publish](/cv#publications) and [present](/cv#presentations) on these topics.
 
 >Select publications:
 - <em><a href="https://litwinbooks.com/books/knowing-our-value-and-our-values/">Knowing our Value and our Values: Toward An Ethical Practice of Library Assessment</a></em>. Library Juice Press.
